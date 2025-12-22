@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python tools/publish.py:*)"
+      "Bash(python tools/publish.py:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: Add Chapters 2 and 3\n\nChapter 2: What Remains (1,916 words)\n- Reunion with Sim, Wilem, Fela\n- Changes during Kvothe''s absence\n- Ambrose rising to power\n- Meeting with Auri - the bone key gift\n- Foreshadowing of Denna''s return\n\nChapter 3: The Song of Seven Sorrows (1,764 words)\n- Denna performs her Lanre song at the Eolian\n- The song rehabilitates the Chandrian\n- Kvothe notices the Yllish knots in her hair\n- First confrontation about the song and her patron\n- She says she made a promise she can''t break\n- Sets up the devastating fight to come\n\nTotal: 7,348 words (~7.3% of target)\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")"
     ]
   }
 }
