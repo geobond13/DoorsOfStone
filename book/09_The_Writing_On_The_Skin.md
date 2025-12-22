@@ -8,23 +8,65 @@ Timeline: Day 3 story - researching Yllish magic
 
 I SPENT THREE days in the restricted sections.
 
-Not the parts that were truly forbidden—even my cunning had limits. But there were places between the public stacks and the locked vaults, grey areas where the ambitious and the careful could find things that weren't exactly hidden, just... overlooked.
+Not the parts that were truly forbidden—even my cunning had limits. The true restricted sections, the ones Lorren kept under lock and key and his own watchful eye, were beyond my reach. I would have needed permissions I didn't have, access codes I couldn't guess, and a level of trust I had systematically destroyed through years of impulsive behavior.
 
-Yllish written magic wasn't a single discipline. It was a family of techniques, developed over centuries, refined by scholars whose names had been erased from history. The basic principles were simple enough: Yllish story knots could encode information, complex meanings compressed into patterns of thread and cord.
+But there were places between the public stacks and the locked vaults, grey areas where the ambitious and the careful could find things that weren't exactly hidden, just... overlooked. Forgotten corners where dust gathered on spines that hadn't been opened in decades. Shelves that weren't quite restricted, just... discouraged.
+
+I spent three days in those places.
+
+Three days of reading by candlelight, my eyes burning, my back aching from hunching over ancient texts. Three days of chasing references through footnotes, following threads of knowledge that led through centuries of scholarship into territories that made my skin crawl.
+
+Yllish written magic wasn't a single discipline.
+
+It was a family of techniques, developed over centuries, refined by scholars whose names had been erased from history. The Aturan church had done its best to destroy this knowledge—had burned libraries, executed practitioners, salted the earth where the old universities had stood. But knowledge is harder to kill than people, and fragments had survived.
+
+The basic principles were simple enough.
+
+Yllish story knots could encode information, complex meanings compressed into patterns of thread and cord. This much was known, studied, even taught in some of the more esoteric classes at the University. The language of knots was beautiful in its complexity—a syntax that existed in three dimensions, that could say things flat text could never express.
 
 But the advanced applications were something else entirely.
 
 *A pattern that compels truth-speaking.*
 
+I found this reference in a fragmentary text, half the pages missing, the remaining words written in a script that mixed Yllish with something older. The description was incomplete—deliberately so, I suspected—but the implications were clear enough. A pattern woven in the right way, placed in the right location, could force the wearer to speak only truth.
+
 *A binding that prevents the utterance of certain words.*
+
+This one came from a different source, a scholarly analysis of Yllish artifacts recovered from a ruin in the eastern mountains. The author had been careful, clinical, approaching the subject like a naturalist studying a dangerous animal. But between his measured phrases, I could read the fear.
+
+Some words, he wrote, are too dangerous to speak. The old Yllish masters had known this. Had developed methods to seal certain names behind walls of pattern and intent. To make it physically impossible for a person to say the things that must not be said.
 
 *An inscription that rewrites memory.*
 
-The texts I found were fragments, half-destroyed, sometimes contradictory. Someone had been through these sections before me, removing pages, blacking out passages, pruning knowledge with the same careful ruthlessness Devi had described.
+This was the worst of them.
 
-But they'd missed things. Small things. Footnotes referencing other works. Margin notes in languages the censors hadn't recognized. Diagrams that seemed decorative but contained the seeds of something darker.
+I found it in a journal, handwritten, the pages brittle with age. The author had been a researcher—not an arcanist, but something else, something from a tradition that predated the University by centuries. He had studied the Yllish masters who remained after the church's purges, had documented their techniques with the detachment of someone who knew he was recording things that should not be preserved.
 
-I copied everything I found. Drew the patterns from memory. Cross-referenced until my eyes ached and my hand cramped.
+Memory, he wrote, is just another kind of story. And stories can be edited.
+
+The technique he described was horrifying.
+
+A pattern inscribed on the body—not on paper, not on cloth, but directly on flesh. The pattern would sink beneath the skin, would weave itself into the very structure of the mind. And once it was complete, the person who bore it would remember whatever the inscriber wanted them to remember.
+
+Their past would change.
+
+Their identity would shift.
+
+They would become, in every meaningful way, a different person.
+
+---
+
+The texts I found were fragments, half-destroyed, sometimes contradictory.
+
+Someone had been through these sections before me, removing pages, blacking out passages, pruning knowledge with the same careful ruthlessness Devi had described in her warnings about the Amyr. They hadn't wanted this knowledge to survive. They had done their best to ensure it would die.
+
+But they'd missed things.
+
+Small things. Footnotes referencing other works. Margin notes in languages the censors hadn't recognized. Diagrams that seemed decorative but contained the seeds of something darker.
+
+I copied everything I found.
+
+Drew the patterns from memory—my memory was good enough that I could recreate complex images after a single viewing, though the effort left me with headaches that lasted for hours. I cross-referenced until my eyes ached and my hand cramped and the candle burned down to a stub and had to be replaced.
 
 And slowly, piece by piece, I began to understand what was being done to Denna.
 
@@ -34,43 +76,75 @@ And slowly, piece by piece, I began to understand what was being done to Denna.
 
 I was in my room at Anker's, papers spread across every surface, the candle burning low. The phrase had appeared in three separate texts, always in connection with the most powerful forms of Yllish magic.
 
-Not writing on paper. Not weaving patterns into cloth.
+Not writing on paper, which was temporary and could be destroyed.
+
+Not weaving patterns into cloth, which could be unraveled.
 
 Writing on skin. Carving patterns into flesh.
+
+The body as medium.
+
+I thought of Denna's patron.
+
+The man she called Master Ash—or was it Master Elm? She'd been vague about his name, as if she couldn't quite remember it herself. That vagueness had bothered me at the time. Denna had many flaws, but a poor memory wasn't one of them.
+
+Unless someone had made her forget.
+
+Unless someone had written forgetfulness into her skin.
 
 The beatings weren't beatings at all.
 
 They were *inscriptions*.
 
-I thought of the Cthaeh's words: *He beats her, you know. Two days ago he used his walking stick.*
+I thought of the Cthaeh's words, spoken in that terrible glade where truth was a weapon and every sentence carried barbs: *He beats her, you know. Two days ago he used his walking stick.*
 
-Walking stick. A tool for writing. For carving.
+Walking stick.
+
+A tool for walking.
+
+Or a tool for writing.
+
+For carving.
 
 Each blow would leave a mark—not just a bruise, but a pattern. Each pattern would set the magic deeper. And over time, enough patterns would create something more than a binding.
 
 They would create a vessel.
 
+A container for something that needed a human host.
+
+A body written over so completely that the original person was nothing but a shadow beneath the text.
+
 ---
 
 "You look terrible."
 
-Simmon's voice startled me. I hadn't heard him enter.
+Simmon's voice startled me.
+
+I hadn't heard him enter. I had been so deep in the research, so focused on the terrible knowledge I was assembling, that the world outside my papers had ceased to exist.
+
+I looked up.
+
+Sim stood in the doorway, his face showing concern and something else—fear, perhaps, or the beginning of fear. He had never seen me like this before. Obsessed, yes. Driven, certainly. But this was different.
 
 "I've been researching."
 
-"For three days straight, apparently." He sat on the edge of my bed, studying the papers scattered around me. "Wil said you've missed classes. Kilvin's been asking about you."
+"For three days straight, apparently." He stepped into the room, careful not to disturb the papers that covered the floor. "Wil said you've missed classes. Kilvin's been asking about you. There's a rumor going around that you've finally cracked."
 
-"I'll make it up."
+"I'm fine."
 
-"That's not the point." He picked up one of my drawings—a complex pattern of interconnected loops. "What is this?"
+"You're not fine. You look like you haven't slept since I saw you last." He sat on the edge of my bed, the only clear space in the room, and studied the papers scattered around me. "What is this?"
+
+He picked up one of my drawings—a complex pattern of interconnected loops, reconstructed from fragments scattered across a dozen different sources. Even looking at it made my head ache.
 
 "Yllish magic. The advanced kind. The kind that can rewrite a person from the inside out."
 
-Simmon's face went pale. "Is this about Denna?"
+Simmon's face went pale.
 
-"It's about what's being done to Denna." I stood, began pacing. "Her patron isn't just teaching her music. He's turning her into something. A weapon. A vessel. I don't know exactly what yet, but—"
+"Is this about Denna?"
 
-"You need to slow down." Simmon's voice was firm. "You're not eating. You're not sleeping. You're obsessing over something you can't actually do anything about."
+"It's about what's being done to Denna." I stood, began pacing—the only way I could think when my mind was moving this fast. "Her patron isn't just teaching her music. He's turning her into something. A weapon. A vessel. I don't know exactly what yet, but the patterns are there. The techniques are documented. And if I'm right—"
+
+"Slow down." Simmon's voice was firm, carrying an authority I'd rarely heard from him. "You're not eating. You're not sleeping. You're obsessing over something you can't actually do anything about."
 
 "I can't do nothing."
 
@@ -80,9 +154,13 @@ Simmon's face went pale. "Is this about Denna?"
 
 "Then find allies. People who want to stop them." He reached out, gripped my shoulder. "You're not alone in this, Kvothe. But you're acting like you are. And that's going to get you killed."
 
-I wanted to argue. To explain that he didn't understand, couldn't understand, the weight of what I'd learned and the urgency of what needed to be done.
+I wanted to argue.
 
-But looking at his face—the genuine concern, the friendship that had survived years of my arrogance and absences—I felt something loosen in my chest.
+To explain that he didn't understand, couldn't understand, the weight of what I'd learned and the urgency of what needed to be done. Denna was being rewritten. Every day that passed, more of her was replaced by something else. And if I waited too long, if I took the time to do this carefully and properly—
+
+There might not be anything left to save.
+
+But looking at Sim's face—the genuine concern, the friendship that had survived years of my arrogance and absences—I felt something loosen in my chest. A knot I hadn't known was there.
 
 "You're right," I said finally. "I've been... focused."
 
@@ -94,28 +172,49 @@ But looking at his face—the genuine concern, the friendship that had survived 
 
 "It's dangerous."
 
-"So is everything else about knowing you." His smile was rueful. "We knew what we were signing up for when we became your friends. Don't shut us out now."
+"So is everything else about knowing you." His smile was rueful, carrying the weight of years of friendship and too many close calls. "We knew what we were signing up for when we became your friends. Don't shut us out now."
 
-I nodded. I didn't trust myself to speak.
+I nodded.
 
-After he left, I looked at the papers surrounding me. The patterns. The fragments. The terrible knowledge I'd assembled.
+I didn't trust myself to speak.
+
+After he left, I looked at the papers surrounding me. The patterns. The fragments. The terrible knowledge I'd assembled from a hundred different sources.
 
 Simmon was right about one thing: I couldn't do this alone.
 
-But he was wrong about something else. I wasn't going to find allies among the sane and the cautious. The people who could help me were the same people who frightened me.
+But he was wrong about something else.
 
-Elodin, with his cryptic warnings and his knowledge of names.
+I wasn't going to find allies among the sane and the cautious. The people who could help me were the same people who frightened me.
 
-Devi, with her scars and her secrets.
+Elodin, with his cryptic warnings and his knowledge of names. He understood things about the deep structure of reality that no one else at the University could match. If anyone would know how to break a pattern written in flesh, it would be him.
 
-Lorren, who served the Amyr while pretending to serve only knowledge.
+Devi, with her scars and her secrets. She had been expelled for something—something connected to the old magics, the forbidden knowledge. And she had contacts, resources, a network of information that the Masters didn't even know existed.
 
-And somewhere out there, Denna herself—the only person who truly understood what was happening to her. If I could find her. If I could make her talk.
+Lorren, who served the Amyr while pretending to serve only knowledge. He had access to the truly restricted sections, the places where the real secrets were kept. And if he was what I suspected him to be, he would have his own reasons to stop whoever was using Yllish magic for such dark purposes.
+
+And somewhere out there, Denna herself.
+
+The only person who truly understood what was happening to her.
+
+If I could find her.
+
+If I could make her talk.
 
 If she still had enough of herself left to remember who she used to be.
 
-I gathered my papers. Organized my notes. And began planning my next move.
+I gathered my papers.
 
-Tomorrow, I would return to the Archives. But not to research.
+Organized my notes.
+
+And began planning my next move.
+
+Tomorrow, I would return to the Archives.
+
+But not to research.
 
 To hunt.
+
+For the truth about what was being written on Denna's skin.
+
+And the person who was writing it.
+
