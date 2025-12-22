@@ -4,6 +4,7 @@
 POV: Third person (frame)
 Location: Waystone Inn
 Timeline: Dawn, Day 3
+Word Count Target: 1500
 -->
 
 IT WAS NIGHT AGAIN. The Waystone Inn lay in silence, and it was a silence of three parts.
@@ -36,7 +37,7 @@ Bast turned from the window. In the dying firelight, his features seemed to shif
 
 "Reshi. It has to be today. You know that. You feel it." He gestured toward the window, toward the darkness pressing against the glass. "They're getting closer. Every night there are more of them. And every day you fade a little more."
 
-The innkeeper—Kote—finally moved. Just a slow turn of his head, red hair catching the ember-light like banked coals. When he spoke, his voice was soft. Tired. A voice that had once commanded armies and gentled nightmares.
+The innkeeper—Kote—finally moved. Just a slow turn of his head, red hair catching the ember-light like banked coals. When he spoke, his voice was soft. Tired. A voice that had once commandeered armies and gentled nightmares.
 
 "I know," he said. "I can hear them."
 
