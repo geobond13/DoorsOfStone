@@ -1,0 +1,33 @@
+# Generated output files
+output/*.epub
+output/*.pdf
+output/*.html
+output/*.md
+output/*.txt
+
+# Keep the output directory
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.env
+venv/
+ENV/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
