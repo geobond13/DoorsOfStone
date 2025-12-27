@@ -8,9 +8,9 @@ Timeline: Day 3 story - Kvothe returns from Ademre
 
 THE GATES OF the University looked smaller than I remembered.
 
-Not literally, of course. Stone and iron don't shrink. But I had grown in ways that changed how I saw everything. The Adem training had given me new eyes—eyes that measured distance and threat, that noticed shadows and escape routes, that never quite stopped watching the world for danger.
+Not literally. Stone and iron don't shrink. But I had. Or grown. I couldn't tell which anymore. The Adem had given me new eyes—eyes that measured distance, counted exits, never stopped watching. Eyes that saw threat in everything and safety in nothing.
 
-The guards at the gate didn't recognize me at first. I'd left as a thin, pale student with callused fingers and a musician's posture. I'd returned as something else—broader across the shoulders, harder in the eyes, moving with a stillness that made people step out of my way without knowing why.
+The guards didn't recognize me. I'd left thin and pale, a musician who happened to study magic. I'd returned as something that made the older guard's hand drift toward his sword without him knowing why.
 
 "Name and purpose?" The older guard had his hand near his sword, which told me something about how I looked.
 
@@ -96,11 +96,11 @@ My heart stopped. Just for a moment. Just long enough for Wil to notice.
 
 "She performed at the Eolian. A new song." Wil's expression was unreadable. "About Lanre."
 
-The name fell into the space between us like a stone into still water. Lanre. The hero who had become the villain. The man who had loved his wife so much he'd broken the world to save her.
+Lanre. The name fell between us like a blade.
 
 "What kind of song?"
 
-"The kind that makes you question everything you thought you knew." Wil leaned back, crossed his arms. "The kind that people are still talking about, a month later. The kind that changes how you think about stories you've known your whole life."
+"The dangerous kind." Wil leaned back. "The kind people can't stop talking about. The kind that makes you wonder if everything you learned was a lie."
 
 I thought of the Cthaeh. Of the things it had told me about Denna's patron. About what she was being shaped into.
 
@@ -124,9 +124,9 @@ And everywhere—in taverns and dormitories, in classrooms and common rooms—pe
 
 Denna's song.
 
-I didn't hear it that first day. I wasn't ready. But I felt it, like pressure on my skin, like a storm building on the horizon. Something was coming. Something that would change everything.
+I didn't hear it that first day. I wasn't ready. But I felt it—pressure behind my eyes, a storm I couldn't see.
 
-I just didn't know—couldn't have known—that I was already caught in its gravity.
+I was already caught. I just didn't know it yet.
 
 That night, alone in my old room at Anker's, I lay awake and listened to the wind moving through the eaves. Somewhere in the darkness, the Cthaeh's words whispered in my memory.
 
@@ -138,8 +138,8 @@ That night, alone in my old room at Anker's, I lay awake and listened to the win
 
 I closed my eyes and saw Denna's face. The way she'd smiled the last time I saw her. The way she'd never quite let me get close enough to help.
 
-Tomorrow, I would find Auri. Tomorrow, I would face Elodin. Tomorrow, I would begin untangling the web of secrets I could feel tightening around me.
+Tomorrow I would find Auri. Face Elodin. Begin pulling at threads I couldn't see the ends of.
 
-But tonight, I let myself remember. Let myself hope.
+But tonight I let myself hope.
 
-It was the last night I would feel anything that simple for a very long time.
+It was the last time hope would come that easily.
