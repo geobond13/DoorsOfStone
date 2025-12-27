@@ -150,7 +150,7 @@ I felt cold. The kind of cold that starts in your chest and spreads outward unti
 
 "Then we stop it. We find a way to remove the binding, to—"
 
-"You can't." She smiled—sad, resigned. "The binding is too deep now. It's not just in my skin anymore. It's in my nerves. My blood. My bones." She touched her heart. "Every time I breathe, I'm singing the song. Every time my heart beats, another note plays. I AM the song now, Kvothe. And I don't know how to stop."
+"You can't." She smiled—sad, resigned. "The binding is too deep. It's not just in my skin anymore. It's in my nerves. My blood. My bones." She touched her heart. "Every breath sings the song. Every heartbeat plays another note. I AM the song now. And I don't know how to stop."
 
 ---
 

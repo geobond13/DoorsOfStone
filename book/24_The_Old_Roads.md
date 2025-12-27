@@ -220,7 +220,7 @@ I didn't know what to say.
 
 "Will it work?"
 
-"Maybe. Probably not." She closed her eyes. "But you'll do it anyway. Because that's who you are. Someone who keeps trying, even when trying is pointless."
+"Maybe. Probably not." She closed her eyes. "But you'll do it anyway. That's who you are. Someone who keeps trying, even when trying is pointless."
 
 I left her there, in the darkness, and climbed back toward the light.
 
