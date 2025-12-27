@@ -38,7 +38,7 @@ I sat in the chair across from her desk—the only other seat in the room, posit
 
 "The debt isn't due for another month," I said. "I checked the calendar."
 
-"The debt can be called in at my discretion. That's in the contract too. Paragraph seven, subsection three." She leaned back in her chair. "But I'm not here to collect money. Money is boring. What I want from you is much more interesting."
+"The debt can be called in at my discretion. Paragraph seven, subsection three." She leaned back. "But I'm not here to collect money. Money is boring. What I want from you is much more interesting."
 
 "Information?"
 
@@ -68,7 +68,7 @@ The name hung in the air like smoke.
 
 "Why?"
 
-"Because knowledge is power. And there's no knowledge more powerful than the kind everyone else has forgotten." She opened a drawer in her desk, withdrew a leather folder thick with papers. "I have sources Lorren doesn't know about. Texts he thinks were destroyed. Information that's been passed down through... unofficial channels."
+"Because knowledge is power. And there's no knowledge more powerful than the kind everyone else has forgotten." She opened a drawer, withdrew a leather folder thick with papers. "I have sources Lorren doesn't know about. Texts he thinks were destroyed. Information passed through... unofficial channels."
 
 "What kind of unofficial channels?"
 
@@ -200,7 +200,7 @@ Then she sat back down, and the mask of competence slipped, revealing something 
 
 "That's quite a theory."
 
-"It's more than a theory. It explains everything. Why the Archives feel wrong when the seals weaken. Why Lorren is so obsessive about controlling who accesses what. Why certain texts have been destroyed or hidden or simply... lost." She leaned forward. "The University isn't just a school, Kvothe. It's a prison. A watchtower. A guard post for something that most of the world has forgotten exists."
+"It's more than a theory. It explains everything. Why the Archives feel wrong when the seals weaken. Why Lorren is so obsessive about controlling access. Why certain texts have been destroyed or hidden or simply... lost." She leaned forward. "The University isn't just a school. It's a prison. A watchtower. A guard post for something most of the world has forgotten exists."
 
 I thought about what she was saying. About the heaviness Fela had described. About the shadow in Kilvin's sphere. About the dreams of doors opening that had plagued me since childhood.
 
@@ -236,11 +236,11 @@ Then, slowly, she smiled.
 
 I took her hand.
 
-Her grip was strong, her skin cool, and somewhere in the back of my mind, a voice whispered that I was making a bargain I didn't fully understand.
+Her grip was strong, her skin cool. Somewhere in the back of my mind, a voice whispered that I was making a bargain I didn't fully understand.
 
 But then, that was true of most things in my life.
 
-"Deal," I said.
+"Deal."
 
 ---
 
@@ -296,11 +296,9 @@ I stared at the key for a long time.
 
 Then I put it in my pocket and went back to my room.
 
-And that night, for the first time in weeks, I didn't dream of doors.
+That night, for the first time in weeks, I didn't dream of doors.
 
-I dreamed of songs.
+I dreamed of songs. Songs silenced three thousand years ago.
 
-Songs that had been silenced three thousand years ago.
-
-Songs that were beginning to be heard again.
+Songs beginning to be heard again.
 
