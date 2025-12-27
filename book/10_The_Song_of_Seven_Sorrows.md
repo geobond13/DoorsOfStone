@@ -64,6 +64,12 @@ But I wasn't.
 
 I was watching Denna's hair. Watching the patterns shift as she sang. Watching the way her fingers moved on the strings—not just playing music, but tracing shapes. Drawing bindings in the air.
 
+The braids weren't merely decorative. They were Yllish story knots—I recognized them now from my studies in Vintas. But these patterns were complex, layered, speaking several things at once. Most told the story she was singing: Lanre the hero, Lanre the guardian. But woven through those braids, hidden in the knots like a secret signature, was something else. A single word, repeated over and over.
+
+A name.
+
+I couldn't quite read it—the patterns shifted too quickly, and my Yllish was still imperfect. But I knew it was there. A truth hidden within the beautiful lie.
+
 The song wasn't just beautiful.
 
 It was *working*.

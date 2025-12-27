@@ -134,6 +134,32 @@ I left her chambers as the sun rose over Severen.
 
 My head spun with revelations. The Chandrian as broken guardians. The Amyr as something other than heroes. My mother as a woman who'd given her life to protect a secret.
 
+And underneath it all, a growing suspicion I couldn't shake.
+
+Meluan had mentioned a visitor—Lord Brendan, who didn't exist. White hair, silver cane, studied the door for three days. Bredon, using a false name.
+
+Why would a man dedicated to keeping the doors closed need to study them in secret? Why use an alias? Why ask about Lackless inheritance, unless he was planning for a future where the current heirs had... failed?
+
+The Amyr were known for doing terrible things in service of the greater good. The phrase itself—"for the greater good"—had always troubled me. Who decided what was greater? Who measured the cost?
+
+What if Bredon wasn't fighting to keep the doors closed? What if he was simply fighting for his own version of what should happen when they opened?
+
+But there was another possibility, one that made my blood run cold.
+
+The Cthaeh had spoken of Denna's patron. Of the man who hurt her. Of someone whose anger burned like white-hot iron. It had described Cinder—or someone very like him.
+
+Master Ash. The patron who demanded secrecy, who taught Denna dangerous songs, who appeared and disappeared like smoke.
+
+Could Bredon be Master Ash?
+
+The pieces fit. The knowledge, the connections, the interest in young women with exceptional voices. But they also didn't fit—Bredon's cultured warmth seemed nothing like the cruel figure Denna sometimes hinted at.
+
+Unless he was that skilled at wearing masks.
+
+I remembered his words: "Very few people are what they appear to be. Including, I suspect, yourself. And most certainly including me."
+
+Had that been a warning? A confession? Or just another move in a game I didn't fully understand?
+
 And Denna's song, threading through all of it. Changing how people thought about Lanre, about the Chandrian, about the nature of good and evil.
 
 If the song succeeded—if enough people believed its version of history—then one of the conceptual seals would break. The door would open wider. Whatever waited behind it would be one step closer to freedom.

@@ -100,7 +100,31 @@ But I also felt the wrongness. The hunger beneath the seductive whispers. Whatev
 
 "Someone does." I thought of Devi. Of the Yllish knots in Denna's hair. Of the patterns Cinder was carving into her flesh. "Someone is practicing exactly this kind of magic. And they're using it to open doors, not close them."
 
-"Then we need to find them."
+A thought struck me—unwelcome but persistent. "Meluan, has anyone else been to this chamber recently? Anyone who showed unusual interest in the door?"
+
+"Several people have visited over the years. Scholars, mostly. The occasional noble with historical interests." She paused. "Why?"
+
+"Because if someone is trying to open the doors, they would need to study them first. Learn how the bindings work before trying to break them."
+
+"There was one man," Meluan said slowly. "An older gentleman. Very cultured, very knowledgeable. He came perhaps two years ago, with letters of introduction from several respected houses. He spent three days here, studying the door and the old texts."
+
+My heart beat faster. "What did he look like?"
+
+"White hair. Silver-topped walking stick. Moved with surprising grace for his age." She frowned. "He called himself Lord Brendan, though I later learned no such title exists in Vintas."
+
+Bredon. It had to be.
+
+But what did that mean? Was he trying to open the doors, or prevent their opening? Was he the enemy I was hunting, or an ally I couldn't afford to trust?
+
+"Did he find anything?"
+
+"He took extensive notes. Asked many questions about the family history, about the symbols on the door." Meluan's voice hardened. "He also asked about the Lackless box. About who would inherit if our line failed."
+
+The implications were clear—and disturbing. If Bredon was working to open the doors, his interest in the box made perfect sense. But if he was Amyr, fighting to keep them closed, why would he care about Lackless inheritance?
+
+Unless he was playing both sides. Or unless the Amyr weren't as benevolent as the legends claimed.
+
+"Then we need to find them," I said, filing this information away.
 
 "We need to stop them." I turned back to the door, studying the carvings more carefully. "But first, I need to understand what we're dealing with. There has to be documentation somewhere. Records of how the binding was created."
 

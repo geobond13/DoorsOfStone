@@ -134,7 +134,7 @@ But if Cinder was aware of that thread...
 
 "That's not possible."
 
-"Neither was speaking the name of silence. Neither was becoming what you've become." Bredon stood, brushing leaves from his cloak. "Be careful. And if you see an opportunity to end him permanently—take it. Whatever the cost."
+"Neither was shaping silence into a weapon. Neither was becoming what you've become." Bredon stood, brushing leaves from his cloak. "Be careful. And if you see an opportunity to end him permanently—take it. Whatever the cost."
 
 "Whatever the cost?"
 
@@ -308,11 +308,27 @@ The third thing that broke was the mountain.
 
 Cinder screamed—a sound that shouldn't have been possible from a being that had transcended humanity centuries ago. The patterns on the walls flickered, destabilized, began tearing themselves apart. The chamber shook, stone cracking, reality fracturing along lines that had been stable for three thousand years.
 
-I reached for the name of silence.
+I reached for the name that was not a name.
 
-Not the name I'd spoken at Renere—the desperate, destructive force that had killed Denna and the King. But something else. Something deeper. The name behind the name, the pattern that made silence what it was.
+But first, I spoke another.
 
-And I spoke it.
+*Ferula.*
+
+The true name Denna had hidden in her song, the name I'd spent weeks deciphering from the Yllish knots woven through her hair. Seven letters that held three thousand years of existence. The word she had encoded in the very propaganda he'd forced her to sing—her final act of defiance, waiting for me to find it.
+
+Cinder's face twisted with shock. For the first time since I'd known him, I saw fear in those ancient eyes. Not the calculating wariness of a predator assessing a threat—true fear, the terror of something that had believed itself beyond naming, beyond mortality, beyond consequence.
+
+"How—" he began.
+
+"Denna told me," I said. "She told me everything."
+
+The name bound him—not completely, not forever, but enough. Enough to hold him still. Enough to strip away the layers of power he'd accumulated over millennia. For one crucial moment, he was not Cinder the Chandrian, the immortal destroyer. He was Ferula, naked before the speaking of his true name.
+
+And in that moment, I reached deeper.
+
+Not the desperate force I had become at Renere—the silence that had killed Denna and the King. But something else. Something deeper. The pattern behind the absence, the shape that made silence what it was.
+
+And I became it utterly.
 
 Not to destroy.
 

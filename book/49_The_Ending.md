@@ -254,7 +254,83 @@ She walked out of the forest as if she'd been there all along.
 
 Small and slight, with hair like dandelion fluff and eyes that had seen things no human should have to see. The Yllish knots that Cinder had carved into her wrists were still visible, but faded—pale scars rather than fresh wounds.
 
-She sat beside me without speaking.
+"Auri." My voice cracked on her name. "I thought—when you disappeared into the Underthing—"
+
+"You came for me." She smiled, the expression both sad and wondering. "I felt you. In the deep places. In the rooms that have no names."
+
+"The bone key," I said. "The one you gave me. It opened doors I didn't know existed."
+
+"That's what it was for." She sat beside me, close enough that our shoulders almost touched. "For when all the other doors are closed. That's what I said."
+
+I remembered.
+
+---
+
+It had been three days after Cinder marked her. Three days of searching the Underthing, of calling her name into darkness that swallowed sound, of stumbling through passages that shifted and changed whenever I looked away.
+
+I had almost given up.
+
+Then I found the bone key in my pocket—where it had been all along, waiting. The key she had pressed into my hand months ago, cold and wrong and full of promise.
+
+*For when you need to open something that doesn't want to open.*
+
+I had no idea what door it would fit. But I held it anyway, felt its weight, and for the first time since Cinder had taken her, I let myself listen.
+
+Not with my ears. Not with the sleeping mind that had once shown me the names of things.
+
+With something deeper. Something the key itself seemed to understand.
+
+And I heard her.
+
+Faint as a heartbeat three rooms away. Faint as a candle seen through fog. But there—unmistakably there—in a place the Underthing kept hidden even from itself.
+
+The key fit a door I couldn't see until I needed it. A door made of shadow and forgetting, tucked into a corner of Billows that had no corners. It turned with a sound like a sigh, and beyond it was a room that shouldn't have existed.
+
+Auri was there.
+
+Curled in the corner, arms wrapped around her knees, the Yllish knots on her wrists pulsing with faint silver light. Cinder's binding was trying to pull her somewhere else—somewhere between worlds, somewhere she would become another tool in his arsenal.
+
+But she was fighting it.
+
+"You found me." Her voice was a whisper. "The key found you finding me."
+
+"Can you walk?"
+
+"The marks..." She looked at her wrists. "They want me to go to him. They want me to open doors for him."
+
+"Then we'll close them instead." I knelt beside her, took her small hands in mine. "Auri, listen to me. Whatever he wrote on you—it's not who you are. You're not a door. You're not a key. You're Auri."
+
+"I don't remember what that means."
+
+"Then I'll remind you." I touched her face, made her look at me. "You're the girl who lives in the beautiful places between. Who mends broken things. Who gave a lost boy his name back when he'd forgotten how to be human."
+
+"I'm so tired, Kvothe."
+
+"I know. But you're not alone anymore." I helped her stand. "The bone key—where did you find it?"
+
+"I made it." Her eyes met mine, and for a moment I saw the person she'd been before the breaking. A woman of power and knowledge, who understood things the University had forgotten. "From my own bones. A rib I broke when I fell into the Underthing. That's why it knows me. That's why it could find me."
+
+"You gave me part of yourself."
+
+"I gave you a way back to me." She smiled, though her eyes were full of tears. "In case I ever got lost. In case the between-places took me and wouldn't let me go."
+
+I carried her out of the hidden room, through the door that vanished behind us, back into the Underthing I knew. The journey took hours—or days; time moved strangely in those deep places. But eventually we emerged into moonlight, and Auri breathed the open air like someone who had forgotten what breathing felt like.
+
+"The marks," I said, looking at her wrists. "They're fading."
+
+"They were never finished." She touched the pale scars. "Cinder started the binding, but he never completed it. He wanted to save me for later. For when he needed another key."
+
+"And now?"
+
+"Now I'm just Auri again." She looked at me with those strange, ancient eyes. "Broken in new ways. But still myself."
+
+---
+
+"The bone key saved you," I said now, watching the stream flow past. "I didn't understand what it was until I needed it."
+
+"That's how the true gifts work." Auri picked up a leaf, examined it with the intensity she gave to all small things. "They wait. They don't explain themselves. And then, when the moment comes—they do exactly what they were always meant to do."
+
+She sat beside me without speaking further.
 
 For a long time, we simply watched the stream flow past. The water was clear and cold, catching the morning light, carrying leaves and twigs toward destinations neither of us could see.
 

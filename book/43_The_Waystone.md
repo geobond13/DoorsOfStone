@@ -46,7 +46,7 @@ But at the heart of it stood an inn.
 
 The Waystone.
 
-It was built of old stone and dark timber, its windows glowing with warm light in the gathering dusk. A sign hung above the door—a simple stone with a hole through the center, painted gray and silver.
+It was built of old stone and dark timber, its windows glowing with warm light in the gathering dusk. A sign hung above the door—a simple stone with a hole through the center, painted grey and silver.
 
 "This is it," Auri said. "This is where you need to be."
 

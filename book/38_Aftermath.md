@@ -32,7 +32,7 @@ And somewhere above us, a kingdom was beginning to burn.
 
 "Then we cut it. Dye it. Whatever we have to do."
 
-"It won't matter." Simmon was sitting on the floor, his back against a wine rack, his face gray in the candlelight. "They'll have descriptions from the nobles. Height, build, manner of dress. Half the court saw him fight Cinder. Saw him—"
+"It won't matter." Simmon was sitting on the floor, his back against a wine rack, his face grey in the candlelight. "They'll have descriptions from the nobles. Height, build, manner of dress. Half the court saw him fight Cinder. Saw him—"
 
 He stopped.
 

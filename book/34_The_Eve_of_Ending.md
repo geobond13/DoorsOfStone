@@ -100,6 +100,40 @@ The moon moved across the sky. The city slept, dreaming dreams that weren't quit
 
 "You're real." I touched her face. "This, right now—this is real. You're sitting here, making choices, deciding what to do. That's not an echo. That's not a pattern. That's you."
 
+Denna was quiet for a long moment. Then she reached for the collar of her dress, hesitated.
+
+"Can I show you something?"
+
+I nodded.
+
+She pulled the fabric aside, revealing the skin above her collarbone. In the moonlight, I could see the raised marks of Yllish knots—Cinder's bindings, carved into her flesh. But there was something else. Beneath them, woven through them, a different pattern. Smaller. Subtler. Written in faded ink rather than scarred into skin.
+
+"What is that?"
+
+"My answer." Her voice was quiet but fierce. "He thought he was clever, writing his commands where I couldn't see them. On my back. Behind my ears. Places I'd need mirrors to find." A thin smile. "But I learned Yllish too, Kvothe. I've been learning for months. Every time he wrote on me, I studied what he'd done. And then I wrote my own words. Counter-knots. Negations."
+
+I stared at her. "You've been fighting him this whole time."
+
+"Not fighting. Not yet." She traced one of the ink patterns with her finger. "These are... preparations. Seeds, if you like. They don't do anything on their own. But when the moment comes—when I need them—they'll give me a chance. A fraction of a second where his commands won't hold."
+
+"How long have you been doing this?"
+
+"Since Severen. Since I realized what he was really doing to me." Her eyes met mine, and there was something in them I hadn't seen before. Not desperation. Not fear. Defiance. "He thinks he owns me. He's wrong. He owns a mask. A performance. The real Denna has been hiding underneath, waiting for the right moment to show him exactly how wrong he was."
+
+"Denna..."
+
+"I've been playing his game for months, Kvothe. Pretending the bindings had me completely. Letting him believe I was his perfect puppet." She laughed—a real laugh, sharp and bitter and triumphant. "I'm very good at playing roles. You of all people should know that."
+
+I thought of all the times I'd seen her—distant, controlled, moving like a woman in a dream. I'd assumed the bindings had taken her completely. But now...
+
+"You were acting. The whole time."
+
+"Not the whole time. The bindings are real. The compulsion is real. But there's always been a part of me he couldn't touch. The part that watches. That waits. That remembers who I was before him." She pulled her collar closed. "Tomorrow, when the ritual begins, he'll think I'm his instrument. His perfect channel. And for most of it, I will be—I have to be, or he'll sense something wrong."
+
+"But?"
+
+"But when the moment comes—when he needs me most—I'm going to break free. Just for a second. Just long enough to make my own choice." Her hand found mine again. "Whatever happens after that, Kvothe—whatever I have to become—it will be because I chose it. Not because he commanded it. Me. My decision. My sacrifice."
+
 "Maybe." She closed her eyes. "Or maybe I just want to believe that. Maybe wanting to believe is the realest thing I have left."
 
 ---

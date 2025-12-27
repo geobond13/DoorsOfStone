@@ -200,7 +200,33 @@ He explained the rules—simpler than I expected, yet rich with possibilities I 
 
 "I pay attention. It's a habit I've cultivated over many years." He captured one of my stones with a capstone, cutting my nascent road in half. "Caudicus is dangerous. Not because he's clever—he's not, particularly—but because he's protected by people who are."
 
-"Then help me expose him."
+I studied Bredon more carefully now. The easy smile, the cultured voice, the silver-topped walking stick that caught the light just so. Something about him reminded me of someone, though I couldn't place it.
+
+"You're not just a nobleman, are you?"
+
+"Everyone is just something, if you look hard enough." His smile didn't waver. "The question is whether what you see is what they want you to see."
+
+"That's not an answer."
+
+"It's the only answer you'll get today." He placed another stone on the board. "Tell me, young arcanist—in your travels, have you ever encountered a man called Master Ash?"
+
+The name meant nothing to me. "Should I have?"
+
+"Perhaps not. He moves in... unusual circles. A patron of the arts, particularly music." Bredon's eyes flickered—something calculating behind the warmth. "He's been known to take an interest in young women with exceptional voices. Women who might be convinced to sing certain songs."
+
+Denna. The thought hit me like cold water. Was this man describing Denna's mysterious patron?
+
+"Why do you mention him?"
+
+"Because people who protect poisoners often have other interests as well. Darker ones." He captured another of my pieces. "Master Ash—if that is his name—has connections to forces that have been moving in the shadows for a very long time. Some say he's a scholar. Others say he's something older. Something that wears scholarship like a mask."
+
+"And what do you say?"
+
+"I say that very few people are what they appear to be." His smile turned enigmatic. "Including, I suspect, yourself. And most certainly including me."
+
+---
+
+"Then help me expose Caudicus," I said, steering back to safer ground. "Whatever your reasons."
 
 "Why would I do that?"
 
@@ -214,7 +240,13 @@ Bredon smiled—a genuine expression, warm and slightly surprised.
 
 "The kind I don't discuss with people I've just met." He stood, gathering the Tak set. "I'll send you information. Names, connections, evidence trails. Use them wisely." He paused. "And practice your Tak. The patterns you learn will serve you in unexpected ways."
 
+"And Master Ash?"
+
+"Consider him a thread worth following. Though I warn you—if you pull that thread too hard, you may not like what unravels." His eyes met mine. "Some patrons are more than they seem. Some are exactly what they seem, which is worse. And some..." He trailed off, something dark passing behind his expression. "Some are wearing masks that have been in place so long, even they have forgotten what lies beneath."
+
 He walked away, his cane tapping against the garden stones, and I sat alone on the bench, wondering what game I'd just agreed to play.
+
+And wondering, too, about Denna's patron. About the man she called Master Ash. About why Bredon—whoever he truly was—seemed to know so much about forces that should have been secrets.
 
 ---
 

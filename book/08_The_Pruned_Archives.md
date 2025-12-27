@@ -104,7 +104,7 @@ And at the center of it all—Denna. Being written. Being shaped. Becoming somet
 
 I had to find her. Had to understand what was happening to her before it was too late.
 
-But first, I needed to know more about Yllish magic. More about the bindings that could be carved into flesh. More about the patterns that could compel behavior.
+But first, I needed to know more about Yllish magic. More about the bindings that could be inscribed into flesh—an older, darker form of the art. More about the patterns that could compel behavior.
 
 If Denna was being written, maybe I could learn to read her.
 

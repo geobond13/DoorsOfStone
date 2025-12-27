@@ -44,6 +44,30 @@ She retreated to her room, and the rest of us scattered into the city.
 
 ---
 
+What I didn't know—what none of us knew—was what Denna was really doing in that room.
+
+She told me later, after everything was over. How she locked the door and pulled out the small pot of ink she'd been carrying since Severen. How she stripped off her traveling clothes and stood before the clouded mirror, twisting to see the marks Cinder had left on her body.
+
+His work was everywhere. Yllish knots carved into her shoulder blades. Commands etched along her spine. Binding words hidden in the small of her back, where she'd never think to look without a mirror.
+
+But Denna had been looking. For months now, she'd been mapping his writing, learning its patterns, understanding its grammar. And every night, while Cinder thought she slept, she had been writing her own words.
+
+Counter-knots, she called them. Negation patterns. Yllish that didn't command—it questioned. It created space. It whispered *maybe* where his words screamed *must*.
+
+That first night in Renere, she added three new patterns. One behind her left ear, written so small she could barely see it in the dim light. One on her inner wrist, hidden beneath her bracelet. One on the sole of her foot, where no one would ever think to look.
+
+"It's not enough to break free," she'd told me. "Anyone can break free for a moment. The problem is staying free. His words are in my blood now, in my bones. The moment I stop fighting, they'll pull me back under."
+
+So she wasn't just writing negations. She was writing anchors. Reminders of who she was. Her mother's name, hidden in a pattern that looked like decoration. The first line of a song her father used to sing. The Yllish word for *choice*, repeated over and over in a spiral around her navel.
+
+"If I'm going to die," she'd said, "I'm going to die as myself. Not as his puppet. Not as his instrument. As Denna. Whoever that is."
+
+That first night in Renere, while I was meeting with Lyssa in the wine shop, Denna was fighting a war no one could see. A war of words and will, of ink and intention. A war she'd been fighting alone for months.
+
+And she was winning.
+
+---
+
 Bredon's contact was a woman named Lyssa.
 
 I found her in a wine shop near the old palace, exactly where the Maer's letter said she'd be. She was older than I expected—grey-haired, sharp-eyed, with the bearing of someone who had spent decades navigating dangerous waters.
@@ -115,6 +139,26 @@ She was quiet for a long moment.
 "Now it's louder."
 
 "Now it's almost all I hear." Her eyes met mine. "When I look at you, Kvothe, I see you. But I also see... what he sees. A threat to be neutralized. An obstacle to be removed. I have to fight to see the man I love instead of the enemy I'm supposed to destroy."
+
+She paused, then pulled back her sleeve. In the lamplight, I could see the faint tracery of ink on her inner wrist—patterns I'd never noticed before.
+
+"But fighting is what I do." Her voice hardened. "He doesn't know about these. My own words, written in my own hand. Every night for months, I've been adding to them. Building my defenses. Preparing."
+
+"Preparing for what?"
+
+"For the moment when I stop pretending." She smiled—not the sad, defeated smile I'd grown used to, but something sharper. Something dangerous. "He thinks I'm broken. He thinks the bindings have me completely. That's what I wanted him to think. It's what I needed him to believe, so he wouldn't look too closely."
+
+I stared at her. "You've been deceiving him?"
+
+"I've been surviving him. There's a difference." She touched the ink on her wrist. "Every time he carved a new command into my skin, I studied it. Learned its grammar. Found its weaknesses. And then, in secret, I wrote words of my own. Counter-patterns. Negations. Anchors to remind me who I really am."
+
+"Denna, that's..."
+
+"Dangerous? Foolish? Impossible?" She laughed quietly. "Probably all three. But what was the alternative? Let him erase me completely? Let him turn me into nothing but a tool for his ritual?" Her eyes flashed. "I've been owned before, Kvothe. By circumstance, by necessity, by men who thought they could buy me with pretty words and prettier promises. I learned to survive that. I learned to keep a piece of myself hidden, untouchable, mine."
+
+"And Cinder?"
+
+"Cinder is just another man who thought he could own me." Her voice was ice and iron. "He was wrong."
 
 "You said you love me."
 

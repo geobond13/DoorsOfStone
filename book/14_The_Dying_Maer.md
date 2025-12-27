@@ -102,6 +102,38 @@ What we found was disturbing.
 
 I thought of Cinder. Of the Chandrian's ancient knowledge. Of the magics that had been practiced before the University existed.
 
+But another thought nagged at me—something Bredon had said about Master Ash. A patron who moved in unusual circles. Someone who took interest in talented young women. Someone ancient enough to wear scholarship like a mask.
+
+"Sim, what do you know about patrons? The kind who support musicians?"
+
+"The usual noble types. Why?"
+
+"Denna has a patron. She calls him Master Ash. She's never told me much about him, but..." I trailed off, a cold suspicion forming. "What if he's connected to this? What if whoever is poisoning the Maer is also the one controlling Denna?"
+
+"That's a stretch, Kvothe."
+
+"Is it? Think about it. Denna's been changed. Her patron has been teaching her things—dangerous things. And now we're finding poison that requires impossible precision, knowledge that shouldn't exist anymore." I began pacing. "What if Master Ash isn't just a patron? What if he's something older? Something that's been playing this game for centuries?"
+
+Wil frowned. "You think her patron is one of the Chandrian?"
+
+The word hung in the air. I wanted to dismiss it, but the pieces kept fitting together in ways I couldn't ignore.
+
+"Cinder killed my parents," I said slowly. "The Cthaeh said I'd met him twice. Once at my troupe. But a second time..." I stopped, remembering. "The Cthaeh said his 'anger is like white-hot iron.' It said something about 'the man who hurt her.'"
+
+"Hurt who? Denna?"
+
+"It mentioned a patron. It said—" I closed my eyes, trying to remember the exact words. "'Stick by the Maer and he will lead you to their door.' But it also mentioned someone who beats Denna. Someone who does terrible things to her."
+
+"And you think that's the same person as Master Ash."
+
+"I don't know what to think." That was the truth. The pieces could fit together multiple ways. Master Ash could be Cinder—that would explain the ancient knowledge, the manipulation, the cruelty. But he could also be something else entirely. Bredon had suggested as much.
+
+Unless Bredon himself was Master Ash. The thought made me cold. The old man who knew too much, who appeared at convenient moments, who played games within games...
+
+"You're overthinking this," Wil said quietly. "We don't have enough information to draw conclusions."
+
+"Then we need more information." I forced my mind back to the immediate problem.
+
 "We need to talk to Meluan," I said. "About the door. About what's behind it."
 
 "She won't see you," Wil said. "I've asked. She refuses any contact with 'the Ruh bastard who corrupted her husband's judgment.'"

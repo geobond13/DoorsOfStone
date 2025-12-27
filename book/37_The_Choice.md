@@ -110,6 +110,10 @@ Or might have been something new.
 
 "No. This is permanent. This is what I am." A pause. "But Kvothe—I can still feel. Can still remember. Even as part of the seal, I'm still... something."
 
+"How? How can you still be you if you're... everywhere?"
+
+"Not everywhere. I exist at the nodes—the connection points where the binding touches something real. And one of those connections is you." Her voice grew fainter, like a dream fading at the edge of waking. "Your names are tangled with mine now. What you hear isn't my voice—it's impressions. Fragments of thought that your mind shapes into words. Like dreaming someone you love."
+
 "Something good?"
 
 "Something different." The voice was almost gone now, a whisper from the foundations of the world. "Take care of yourself. Don't let the guilt consume you. And remember—this was my choice. My sacrifice. Not yours."

@@ -130,7 +130,7 @@ I thought about it. About Skarpi's stories. About the way he'd known my name bef
 
 The soldiers found us again at nightfall.
 
-Different soldiers this time—not Vintish blue and white, but the gray and black of private mercenaries. Someone was paying for my head. Someone with resources the Maer might not have.
+Different soldiers this time—not Vintish blue and white, but the grey and black of private mercenaries. Someone was paying for my head. Someone with resources the Maer might not have.
 
 "Ambrose," I breathed.
 

@@ -86,6 +86,10 @@ Lyra was a Namer—one of the greatest who had ever lived.
 
 Where other Namers knew a handful of deep names, Lyra knew dozens. Where other Namers spoke and were obeyed, Lyra merely looked, and reality reshaped itself in answer. She was called the Lady of Dreams, the Voice of Moonlight, the Singer of Silent Songs.
 
+It was Lyra who first understood what the scholars at the University would later forget: that not all names can be spoken. Fire answers to its name because fire is voice—it crackles, roars, whispers. Wind answers because wind is breath—it howls and sighs and moans. But silence? Silence is the absence of voice. You cannot speak silence any more than you can illuminate shadow by adding more darkness.
+
+To know the name of silence, Lyra taught, you must become the space where sound should be. You do not call it—you shape the absence into presence. You do not speak it—you let it speak through you. It is the only name that is not a name, the only word that is unwording.
+
 She was also beautiful, though beauty is the least important part of her story.
 
 Lanre came to her tower on a night when stars fell like rain from a sky torn by Shaper workings. He climbed the thousand steps to her chamber, and when she opened the door to see who disturbed her studies, she found a man covered in the dust of a hundred roads, bleeding from wounds that should have killed him twice over, his eyes burning with a light that was equal parts hope and desperation.

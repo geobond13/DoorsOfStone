@@ -54,11 +54,11 @@ I found Cinder first.
 
 ---
 
-He stood by the eastern windows, a glass of wine in his hand that he hadn't touched. He was dressed as a Vintish noble—silver-gray coat, white cravat, boots polished to a mirror shine. His hair was the same pale silver as always, but here, among the gray-haired lords and ladies of the court, it drew no particular attention.
+He stood by the eastern windows, a glass of wine in his hand that he hadn't touched. He was dressed as a Vintish noble—silver-grey coat, white cravat, boots polished to a mirror shine. His hair was the same pale silver as always, but here, among the grey-haired lords and ladies of the court, it drew no particular attention.
 
 What drew attention were his eyes.
 
-Even from across the room, I could see they were wrong. Not the color—he'd done something to change the color, turned them from that inhuman black to a more acceptable gray-blue. But the way he looked at the people around him, the way his gaze slid over the dancers like they were insects pinned to a board...
+Even from across the room, I could see they were wrong. Not the color—he'd done something to change the color, turned them from that inhuman black to a more acceptable grey-blue. But the way he looked at the people around him, the way his gaze slid over the dancers like they were insects pinned to a board...
 
 That, he couldn't disguise.
 
@@ -108,7 +108,7 @@ King Roderic Calanthis was not what I expected.
 
 I had seen paintings, of course. Every major city in Vintas had at least one portrait of the High King in a place of honor—on horseback, in coronation robes, standing before the white tree of his house. But paintings are lies told in oil and canvas. They show what the subject wants to be seen.
 
-The man standing near Denna was shorter than his portraits suggested, though he carried himself with the easy authority of someone who has never been questioned. His hair was iron-gray, receding slightly from a high forehead that spoke of intelligence rather than vanity. His eyes were the blue-gray of a winter sky, sharp and assessing, missing nothing.
+The man standing near Denna was shorter than his portraits suggested, though he carried himself with the easy authority of someone who has never been questioned. His hair was iron-grey, receding slightly from a high forehead that spoke of intelligence rather than vanity. His eyes were the blue-grey of a winter sky, sharp and assessing, missing nothing.
 
 He wore a coat of deep blue velvet, cut simply for a king, and around his neck hung a chain of office so heavy with gold and sapphires that it must have been uncomfortable. But he wore the weight of it like he wore the weight of his crown—with a grace that came from decades of practice.
 
@@ -184,9 +184,13 @@ Simmon was quiet for a long moment. When he spoke, his voice was steady, but I c
 
 "The song. The binding in her hair. The marks on her skin." I felt something twist in my chest. "He's been writing on her, Sim. Not beating her—writing. Yllish magic carved into her flesh."
 
-"That's not possible. Yllish knots are woven, not carved—"
+"That's not possible. Yllish knots are woven, not—"
 
-"It is possible. Painful and permanent and possible. Every mark on her body is a word. Every word is a chain." I took a breath. Steadied myself. "She's not just singing the song anymore. She is the song. And when she performs it tonight—"
+"Not inscribed into flesh?" I cut him off. "There's an older form, Sim. A darker form, lost to most practitioners but remembered by the Chandrian. They were there when the art was first created. They know versions that were deliberately forgotten."
+
+"Inscribed how?"
+
+"With needles and ink, like a tattoo. But the patterns are Yllish—commands written into the skin itself. Painful and permanent and possible. Every mark on her body is a word. Every word is a chain." I took a breath. Steadied myself. "She's not just singing the song anymore. She is the song. And when she performs it tonight—"
 
 "She opens the doors."
 
@@ -302,7 +306,7 @@ He turned to Denna.
 
 I moved.
 
-I don't know what I planned to do—stop her, warn her, grab her and run. It didn't matter. Before I could take three steps, guards appeared on either side of me. Not the King's guards in their blue and white—guards in gray, with blank faces and eyes that held nothing human.
+I don't know what I planned to do—stop her, warn her, grab her and run. It didn't matter. Before I could take three steps, guards appeared on either side of me. Not the King's guards in their blue and white—guards in grey, with blank faces and eyes that held nothing human.
 
 Chandrian.
 

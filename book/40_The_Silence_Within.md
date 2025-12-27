@@ -131,3 +131,39 @@ He'd been making sure that anyone who touched the silence—anyone who became wh
 He'd been setting a trap.
 
 And I had walked right into it.
+
+---
+
+But traps can be sprung both ways.
+
+It was three days later when the answer came to me. I was studying a fragment of Yllish text that had somehow survived the fire—a corner of parchment, half-burned, describing the old practice of writing names into story knots. The Yllish didn't just use their knots to record events; they used them to hide secrets in plain sight. A braid could tell one story openly while concealing another entirely.
+
+And suddenly, I remembered Denna's hair at the Eolian.
+
+The braids. The patterns shifting as she sang. The story knots I'd glimpsed but couldn't quite read. I'd been so focused on the song's magical compulsion that I'd dismissed what my eyes had seen. But now, with weeks of hindsight and a burned fragment of ancient text before me, the pieces clicked together with the precision of a lock opening.
+
+Denna hadn't just been performing Cinder's propaganda. She'd been encoding something within it.
+
+I spent the next week reconstructing her braids from memory. My Yllish had improved considerably since Vintas, and I had an eidetic memory for patterns—a gift that had served me well in sympathy and naming alike. Slowly, painstakingly, I translated what I'd seen.
+
+The outer layer was exactly what the song proclaimed: Lanre as hero, the Chandrian as misunderstood guardians. But woven beneath, in a secondary layer that only a trained reader would notice, was something else.
+
+A single word, repeated seven times throughout her hair.
+
+*Ferula.*
+
+Not Ferule—the name Lorren had told me, the name courtiers at Renere used. *Ferula*. The true name, complete and unvarnished. The deep name that held Cinder's essence, written in ancient Yllish knots that predated the corruption of language.
+
+Denna had hidden it there deliberately. In the very song Cinder forced her to sing, she had encoded his true name—the one weapon that could be used against him. A secret message, waiting for someone who could read it.
+
+Waiting for me.
+
+I sat in the ashes of the Archives, staring at the name I'd written on a scrap of paper. Seven letters. Such a small thing to hold the essence of a being three thousand years old. Such a fragile weapon against a creature that had murdered my family and broken the woman I loved.
+
+But it was something.
+
+It was a beginning.
+
+I tucked the paper into my pocket and felt, for the first time since Renere, something other than the silence.
+
+I felt hope.

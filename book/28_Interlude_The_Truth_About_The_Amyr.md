@@ -28,9 +28,35 @@ The fire had burned down to embers.
 
 Chronicler's pen had been still for several minutes—not because he'd stopped transcribing, but because there was nothing to transcribe. Kote was staring at something only he could see.
 
-"The Amyr," Chronicler said finally. "Bredon said he was one of them. But earlier, you said the Amyr were connected to the Chandrian. That they weren't as different as people believed."
+"Wait." Chronicler's voice cut through the silence. "I need to stop you here."
 
-"Both things are true." Kote's voice was flat. "The Amyr and the Chandrian are two sides of the same coin. Two factions from the same original organization, split by a disagreement about how to handle the doors."
+Kote blinked, returning from wherever he'd gone. "Problem?"
+
+"Several." Chronicler flipped back through his notes, frowning. "You're telling me that Bredon—a minor noble known primarily for playing tak—is secretly one of the Amyr. An organization that supposedly disbanded centuries ago. And the Amyr are connected to the Chandrian, who are supposed to be their mortal enemies."
+
+"That's correct."
+
+"Do you hear how that sounds?" Chronicler set down his pen. "It sounds like a conspiracy theory. Like you've taken every mystery in your life and connected them with invisible threads until they form a pattern that only you can see."
+
+Bast stirred, but Kote held up a hand.
+
+"Go on," Kote said. "Say what you're thinking."
+
+"I'm thinking that grief and guilt can make a man see connections that aren't there. I'm thinking that sometimes a tak-playing noble is just a tak-playing noble. And I'm thinking that the simplest explanation—that you were a brilliant boy who got tangled in politics and tragedy—is more likely than a three-thousand-year conspiracy involving secret orders and sealed doors."
+
+The silence stretched.
+
+Then Kote smiled—the first genuine smile Chronicler had seen from him.
+
+"Good," he said. "That's exactly the right question to ask. And I have no way to prove any of this to you. Not with words." His eyes held something unreadable. "But before this story ends, you'll see proof. The kind you can't dismiss as coincidence or grief."
+
+"And if I don't?"
+
+"Then you write what you've seen and let the world decide." Kote shrugged. "That's always been the agreement."
+
+Chronicler studied him for a long moment, then picked up his pen. "Fine. But I'm noting my doubts."
+
+"I'd expect nothing less." Kote's voice was flat again, back to the story. "The Amyr and the Chandrian are two sides of the same coin. Two factions from the same original organization, split by a disagreement about how to handle the doors."
 
 "What disagreement?"
 

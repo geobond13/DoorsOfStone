@@ -16,7 +16,23 @@ Kote stood behind the bar, his hands flat on the wood, his eyes fixed on somethi
 
 Chronicler set down his pen. His fingers were cramped from hours of writing, but that wasn't why he stopped. There was something in Kote's stillness that demanded respect. Something broken.
 
-"You knew," Chronicler said finally. "By this point in the story, you knew what was happening to her."
+But respect didn't mean silence. Not for a man who made his living finding truth.
+
+"I have questions," Chronicler said, his voice careful but firm. "Things that don't add up."
+
+Kote's eyes focused, the distant look fading slightly. "Of course you do."
+
+"Yllish knots that control behavior. A patron who turns out to be a Chandrian. A woman being 'written' like a song." Chronicler spread his hands. "These are extraordinary claims. You understand why I might have doubts?"
+
+"You're a scribe who writes down stories about magic. Surely you've encountered extraordinary claims before."
+
+"I've encountered stories people *believe* are true. That's different from them *being* true." Chronicler held Kote's gaze. "How do I know this isn't just... grief? A man who lost someone he loved, constructing an elaborate mythology to explain why he couldn't save her?"
+
+The silence stretched. Bast shifted uncomfortably.
+
+"You don't know," Kote said finally. "Not yet. But you will, before this story ends." Something flickered in his eyes—not anger, but something older. "Ask your questions. I'd rather have an honest skeptic than a credulous fool."
+
+Chronicler nodded slowly. "You knew," he said, returning to the narrative thread. "By this point in the story, you knew what was happening to her."
 
 "I knew enough." Kote's voice was flat. "I knew she was being written. I knew her patron was Cinder. I knew the song was designed to do something terrible."
 

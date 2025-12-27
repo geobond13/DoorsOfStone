@@ -10,31 +10,89 @@ BREDON FOUND ME in the stables.
 
 I was arranging horses for the journey back to the University, checking saddles and counting provisions, when his distinctive white-capped figure appeared in the doorway. His silver-topped walking stick caught the afternoon light, throwing a thin bar of brilliance across the straw-covered floor.
 
+My hand dropped to the knife at my belt.
+
 "Leaving so soon?" His voice carried that cultivated mildness I had come to associate with him—pleasant as summer rain, and just as hard to predict. "Without saying goodbye?"
 
-"The Maer's poisoner can't be caught here." I cinched a strap tighter than necessary. "The source is elsewhere. I need to return to the University."
+"I know who you are." The words came out harder than I intended. "Lord Brendan. You visited the Lackless door two years ago. Under a false name."
 
-"Do you?" He stepped into the stable, and I noticed—perhaps for the first time—how carefully he moved. Not the caution of age. The precision of a predator who has learned to seem harmless. "And here I thought we might have one last game of Tak."
+For the first time since I'd met him, Bredon's composure cracked. Just slightly—a flicker of surprise in his eyes, quickly masked. But I'd seen it.
 
-"I don't have time for games."
+"Meluan told you."
 
-"You always have time for games, Kvothe." He smiled—that knowing expression that had charmed and unsettled me in equal measure since our first meeting. "That's what I admire about you. You understand that games are never just games. They're practice. Training. Preparation for the real conflicts."
+"She told me enough." I didn't let go of the knife. "Enough to know you've been lying about who you are. About what you want."
 
-Something in his voice made me pause. My hands stilled on the horse's flank.
+"I've been careful about who I am. There's a difference." He stepped into the stable, and I noticed—perhaps for the first time—how carefully he moved. Not the caution of age. The precision of a predator who has learned to seem harmless. "And what I want is considerably more complicated than you imagine."
 
-"What do you want, Bredon?"
+"Then explain it. Or I leave now and you never see me again."
 
-"To help you." He moved closer, his footsteps barely whispering against the straw. "You're looking for answers about the doors. About what's happening to the Maer. About the song that's changing the world." He stopped a few feet away, close enough that I could smell the faint lavender of his soap. "I can give you those answers. But first, you need to listen."
+He studied me for a long moment. Something shifted in his expression—calculation giving way to something that looked almost like respect.
 
-"I've been listening all night. Meluan told me—"
+"You think I'm Master Ash," he said.
 
-"Meluan told you what the Lackless family knows. Which is considerable, but incomplete." His eyes met mine, and for a moment I saw something ancient behind them. Something patient and calculating, hidden beneath decades of careful performance. "I can tell you what the Amyr know."
+The name hit me like a blow. I hadn't spoken it aloud—hadn't even fully formed the suspicion consciously. But he'd seen it anyway.
 
-The words hung in the air like smoke from a snuffed candle.
+"Are you?"
 
-"You're Amyr."
+"No." The word was flat, definitive. "Though I understand why you'd suspect it. The pieces fit, if you arrange them a certain way. The knowledge, the interest in Denna's song, the connections to powers that most believe are legend." He moved closer, his footsteps barely whispering against the straw. "But Master Ash is someone else entirely. Someone I've been trying to identify for decades."
 
-"I am what remains of the Amyr." He leaned on his walking stick, suddenly looking his age—or perhaps allowing himself to look it. "Not the painted soldiers the Tehlins pretend to honor. Not the knights in children's stories. The real Amyr, who have been working to prevent catastrophe for three thousand years."
+"And who is he?"
+
+"You already know." Bredon's eyes met mine. "You've known since the Cthaeh spoke to you. Since it described a man whose anger burns like white-hot iron. Since it mentioned someone who hurts the woman you love."
+
+The pieces clicked together. Not slowly, as revelations usually came, but all at once—a cascade of understanding that left me breathless.
+
+"Cinder."
+
+"Ferule, as he was named before the binding changed him." Bredon nodded. "He calls himself Master Ash now because ash is what remains after fire. And fire is what he's always been best at."
+
+"But the Cthaeh—it said I'd met him twice. Once at my troupe, but the second time—"
+
+"Was in the Eld, when you hunted the false Ruh. You nearly caught him then, but he slipped away. Changed his face. Became someone else." Bredon's voice hardened. "He's been wearing Denna like a mask ever since. Using her voice, her beauty, her talent to spread his poison."
+
+My legs felt weak. I leaned against the horse, trying to process what I was hearing.
+
+"All this time. Her patron. The one she protects, defends, refuses to name..." I looked at Bredon. "Why would she protect him? Why would anyone protect a monster?"
+
+"Because he doesn't show her his true face. Because the marks on her skin change how she thinks, how she feels. Because she believes—truly believes—that he's her benefactor, her teacher, her path to something greater." Bredon's voice softened. "She's not complicit, Kvothe. She's a victim. One who doesn't know she's being victimized."
+
+I thought of every conversation with Denna. Every time she'd defended her patron. Every bruise she'd explained away, every absence she'd refused to account for.
+
+"How do you know all this?"
+
+"Because I've been watching the Chandrian for longer than you've been alive. Because stopping them is the purpose I was raised to." He stepped back, straightening. "I am what remains of the Amyr. Not the painted soldiers the Tehlins pretend to honor. Not the knights in children's stories. The real Amyr, who have been working to prevent catastrophe for three thousand years."
+
+---
+
+I didn't believe him. Not entirely.
+
+The claim was too convenient. Too perfectly timed. Just when I'd begun to suspect him, he offered an explanation that made him an ally instead of an enemy. A classic misdirection.
+
+"How do I know you're telling the truth?" I asked. "About the Amyr. About Cinder. About any of this."
+
+"You don't." Bredon's answer was surprisingly direct. "You have no reason to trust me. I've been deceptive about my identity. I've manipulated events to bring you here. I've played games within games, and you've only seen a fraction of the board."
+
+"Then why should I listen to anything you say?"
+
+"Because the alternative is worse. Because Cinder has Denna, and you don't know how to save her. Because the doors are opening, and you don't have the knowledge to close them." He paused. "And because despite everything, despite the manipulation and the secrets and the lies of omission, I'm telling you the truth now. About the things that matter."
+
+I studied his face. Looking for tells, for deception, for the mask beneath the mask. But either he was the best liar I'd ever met, or he was being genuine.
+
+Perhaps both.
+
+"The Amyr did terrible things," I said. "In the name of the greater good. How do I know you won't do the same?"
+
+"You don't." That directness again. "The Amyr have always been willing to sacrifice individuals for larger purposes. We've burned the wrong books. Silenced the wrong scholars. Made choices that haunted us for centuries." His voice hardened. "Including, I suspect, choices about your family."
+
+The admission struck me like a physical blow.
+
+"You knew about my parents."
+
+"I knew they were researching dangerous things. I knew they had connections to secrets we were trying to protect. I didn't order their deaths—that was Cinder's work—but I knew they were at risk, and I didn't warn them." He met my eyes without flinching. "If that makes me your enemy, I understand. But it doesn't change what needs to be done."
+
+I wanted to draw my knife. Wanted to hurt him for what he'd just confessed. But something held me back—not forgiveness, but the cold calculation of necessity. If he was right about Cinder, about Denna, about the doors, then I needed him. Needed what he knew.
+
+Even if I hated him for it.
 
 ---
 
@@ -42,7 +100,7 @@ We walked through gardens I had never seen.
 
 Not the manicured paths where courtiers strolled and gossiped—a private space, walled and quiet, where ancient oaks cast shadows that seemed to move with purpose. Moss grew thick on stones that might have been laid before the Empire was born. The air smelled of old leaves and older secrets.
 
-Bredon led me to a pavilion hidden among the trees, its wooden structure weathered to silver-gray, its roof thick with climbing roses long since gone to thorn. Inside, a table waited—and on the table, a Tak board.
+Bredon led me to a pavilion hidden among the trees, its wooden structure weathered to silver-grey, its roof thick with climbing roses long since gone to thorn. Inside, a table waited—and on the table, a Tak board.
 
 Not the simple travel set we had used before. This board was larger, more elaborate. The wood was dark as old blood, inlaid with patterns of silver that caught the dappled light. The pieces were carved from stone—some pale as moonlight, others dark as a starless sky.
 

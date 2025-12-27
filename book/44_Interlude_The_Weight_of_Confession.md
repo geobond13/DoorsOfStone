@@ -18,6 +18,26 @@ Chronicler set down his pen, his fingers aching from hours of continuous writing
 
 He had been writing for hours without pause, pulled into the story despite himself. The words had flowed through him like water through a channel, his pen moving almost without conscious direction. He had become a conduit—not a creator, just a vessel for truths that demanded to be recorded.
 
+And that troubled him.
+
+He was supposed to be a skeptic. He *was* a skeptic—had built his reputation on separating fact from legend, truth from embellishment. He had challenged Kote at every turn, demanded evidence, noted his doubts in careful marginalia.
+
+But somewhere in the last few hours, he had stopped doubting.
+
+Not because Kote had offered proof—he hadn't, not really. The story remained unprovable, fantastic, the kind of tale that would make any rational scholar dismiss it as elaborate delusion.
+
+And yet.
+
+There was something in the way Kote told it. Something in the details that couldn't be invented—the texture of genuine memory, the weight of actual grief. Chronicler had interviewed hundreds of people over the years, and he had learned to recognize the difference between someone who was lying and someone who was reliving.
+
+Kote was reliving.
+
+Every word, every pause, every moment when his eyes went distant and his voice dropped to barely a whisper—it was all too real to be fiction. Too painful to be performance.
+
+*I'm believing him,* Chronicler realized. *Against all evidence, against all reason, I'm starting to believe this impossible story.*
+
+The thought should have alarmed him. Instead, it felt like something settling into place. Like a door opening that he hadn't known was closed.
+
 And now, in the silence, he realized what he had been witnessing.
 
 Not just a story.
