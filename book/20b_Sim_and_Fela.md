@@ -232,7 +232,7 @@ We walked in silence for a moment, our footsteps echoing on the cobblestones.
 
 "That's a terrible story."
 
-"It's a Cealdish story. We're not known for happy endings." He stopped walking, turned to face me. "The point is: some stones aren't meant to be carried alone. And insisting on carrying them yourself doesn't make you noble. It just makes you stubborn."
+"It's a Cealdish story. We're not known for happy endings." He stopped, turned to face me. "Some stones aren't meant to be carried alone. Insisting on carrying them yourself doesn't make you noble. It just makes you stubborn."
 
 "This isn't a stone."
 

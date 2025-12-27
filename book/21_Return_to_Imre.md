@@ -80,7 +80,7 @@ He looked smaller than I remembered. Diminished. The fire had done more than bur
 
 "Cinder."
 
-"Ferule." Lorren pronounced the name carefully. "His true name. One of seven. The most dangerous of them all, because he doesn't want what the others want." He gripped my arm with surprising strength. "Stop him, Kvothe. Whatever it takes. Stop him before he achieves what he's seeking."
+"Ferule." Lorren pronounced the name carefully. "His true name. One of seven. The most dangerous because he doesn't want what the others want." He gripped my arm with surprising strength. "Stop him, Kvothe. Whatever it takes."
 
 "How?"
 
