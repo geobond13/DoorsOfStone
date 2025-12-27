@@ -36,7 +36,7 @@ It stood at the end of a long chamber, set into the living rock of the hillside.
 
 But it was the crack that drew my attention.
 
-A line of darkness running down the center of the door, thin as a hair but unmistakably present. And from that crack, something leaked—not light, not sound, but *presence*. The sense of something enormous pressing against the barrier, testing its limits.
+A line of darkness running down the center of the door, thin as a hair but unmistakably present. And from that crack, something leaked—not light, not sound, but *presence*. Something enormous pressing against the barrier. Testing its limits.
 
 "It wasn't there a month ago," Meluan said quietly. "The crack. I came to inspect the door—part of my duty as Lackless heir—and found it had appeared sometime in the past year."
 
@@ -88,7 +88,7 @@ The words hit like a physical blow.
 
 "And you don't believe it."
 
-"I believe it's trying to manipulate me. Trying to find the weakness that will make me open the door." She turned away from the stone. "But the temptation is real, Kvothe. The desire to know... it's almost overwhelming."
+"I believe it's trying to manipulate me. Find the weakness that will make me open the door." She turned away from the stone. "But the temptation is real. The desire to know... it's almost overwhelming."
 
 I understood. I felt it too—the pull of the door, the promise of answers to every question that had haunted me since childhood.
 
@@ -126,7 +126,7 @@ Unless he was playing both sides. Or unless the Amyr weren't as benevolent as th
 
 "Then we need to find them," I said, filing this information away.
 
-"We need to stop them." I turned back to the door, studying the carvings more carefully. "But first, I need to understand what we're dealing with. There has to be documentation somewhere. Records of how the binding was created."
+"We need to stop them." I turned back to the door. "But first, I need to understand what we're dealing with. There has to be documentation somewhere. Records of how the binding was created."
 
 "The pruned Archives," Meluan said quietly.
 
