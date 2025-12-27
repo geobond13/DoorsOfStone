@@ -30,7 +30,7 @@ The door pulsed. The copper plates flared.
 
 And for just a moment, I heard something from the other side.
 
-Not words. Not sound exactly. More like the memory of silence—the echo of something that had stopped speaking so long ago that even the absence of its voice had faded.
+Not words. Not sound. More like the memory of silence—the echo of something that had stopped speaking so long ago that even the absence of its voice had faded.
 
 But now it was waking up.
 
@@ -50,7 +50,7 @@ We were in Lorren's office—what remained of it after the fire. The walls were 
 
 "Is there a difference?"
 
-"Yes." My voice was harder than I intended. "She's free now. The binding is broken."
+"Yes." My voice was harder than I intended. "She's free now."
 
 "Is it?" Lorren's gaze was steady. "People don't just shake off three thousand years of magic because someone speaks their name. If Cinder controlled her once, he can do it again. She's a weapon, Kvothe. And weapons can be picked up by anyone with the will to use them."
 
@@ -154,11 +154,11 @@ I stood alone in the Underthing's darkness.
 
 Above me, the University hummed with the energy of the failing seal. Below me, older things stirred in their ancient sleep. And somewhere ahead of me, the road to Renere waited.
 
-I thought of everyone I was leaving behind. Fela, who'd refused to join me. Lorren, who'd sacrificed himself trying to save what couldn't be saved. Elodin, who'd given me warnings I still didn't fully understand.
+I thought of everyone I was leaving behind. Fela, who'd refused to join. Lorren, who'd sacrificed himself trying to save what couldn't be saved. Elodin, who'd given me warnings I still didn't understand.
 
 I thought of everyone I was bringing with me. Denna, freed but fragile. Simmon and Wil, loyal beyond reason. Devi, who'd joined us at the last moment, her eyes bright with something between fear and excitement.
 
-And I thought of myself. The boy who'd lost everything in a fire. The man who'd traveled across the world seeking revenge. The Namer who'd touched the silence and somehow survived.
+And I thought of myself. The boy who'd lost everything in a fire. The man who'd traveled the world seeking revenge. The Namer who'd touched the silence and survived.
 
 Who would I be when this was over?
 
