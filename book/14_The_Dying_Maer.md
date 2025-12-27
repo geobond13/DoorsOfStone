@@ -8,7 +8,7 @@ Timeline: Day 3 story - investigating the new poisoning
 
 ALVERON LOOKED LIKE a man halfway to the grave.
 
-He lay in the same bed where I'd tended him months ago, but the change was startling. His skin had gone grey, papery. His hands trembled constantly. When he spoke, his voice was a whisper of what it had been.
+He lay in the same bed where I'd tended him months ago, but the change was startling. His skin had gone grey. Papery. His hands trembled constantly, and when he spoke, his voice was a whisper of what it had been.
 
 "Kvothe." He managed a smile. "You came."
 
@@ -94,7 +94,7 @@ What we found was disturbing.
 
 "What?"
 
-"They're too clean. Too perfect. Every compound exactly balanced, every dose precisely measured." He shook his head. "That kind of precision... it's almost inhuman. Even the best alchemists show some variation."
+"They're too clean. Too perfect. Every compound exactly balanced, every dose precisely measured." He shook his head. "That kind of precision... it's almost inhuman."
 
 "So either Hespe Vandel is the greatest alchemist alive—"
 
@@ -196,6 +196,6 @@ Then something cracked. Just slightly. Just enough.
 
 I felt ice in my veins.
 
-"The end of all songs," I repeated.
+"The end of all songs."
 
-"Yes." She looked at me, and there was fear in her eyes—genuine fear, overwhelming her hatred. "And the door is opening, Kvothe. Whatever we've been guarding all these centuries... it's starting to break free."
+"Yes." She looked at me, and there was fear in her eyes—genuine fear, overwhelming her hatred. "And the door is opening. Whatever we've been guarding all these centuries... it's starting to break free."
