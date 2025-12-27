@@ -206,7 +206,7 @@ I set the letter down.
 
 "Then why are they trying to open them now?"
 
-"Three thousand years is a long time to bear a curse." Her voice was bitter. "Perhaps they've decided the price was too high. Perhaps they want to undo what they did, whatever the cost."
+"Three thousand years is a long time to bear a curse." Her voice was bitter. "Perhaps they've decided the price was too high. Perhaps they want to undo what they did." She paused. "Whatever the cost."
 
 I looked at the ring—my mother's ring, the ring that marked me as Lackless. Such a small thing. Such a heavy weight.
 
@@ -274,7 +274,7 @@ My parents hadn't died because of the song they'd written—or not only because 
 
 "Mass belief as magical force," I said. "The oldest magic there is."
 
-"Older than naming. Older than sympathy. The power of stories to shape reality."
+"Older than naming. Older than sympathy." She met my eyes. "The power of stories to shape reality."
 
 I looked at the contents of the box—the ring, the key, the stone, the letters. My birthright. My burden.
 
