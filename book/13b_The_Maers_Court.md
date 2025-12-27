@@ -72,9 +72,9 @@ I blinked. "His illness—"
 
 "That's remarkably direct."
 
-"I find honesty more efficient than manipulation. You know where you stand. You know what I want. Now the question is what you want in return."
+"I find honesty more efficient than manipulation. You know where you stand. You know what I want."
 
-I thought about it. About the Maer's pale face and trembling hands. About the court full of smiling predators. About the opportunity that had brought me here—and the danger that might end me.
+I thought about it. The Maer's pale face. The court full of smiling predators. The opportunity that had brought me here—and the danger that might end me.
 
 "I want access," I said finally. "To the people who might know something. To the places where secrets are kept. And I want your protection while I'm looking."
 
@@ -324,7 +324,7 @@ He was still pale, still weak, but there was a clarity in his eyes that had been
 
 "What will they do?"
 
-"Move against you, eventually. Not immediately—they're too clever for obvious retaliation—but eventually. You've interfered with plans that took years to develop. That kind of interference isn't forgotten."
+"Move against you, eventually. Not immediately—they're too clever for obvious retaliation. But eventually." He paused. "You've interfered with plans that took years to develop. That kind of interference isn't forgotten."
 
 "Then what do I do?"
 
@@ -360,7 +360,7 @@ I woke to silence.
 
 But somewhere in the distance, so faint I might have imagined it, I could almost hear a song.
 
-Ancient, patient, waiting.
+Ancient. Patient. Waiting.
 
 And getting louder every day.
 
