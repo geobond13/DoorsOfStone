@@ -14,7 +14,7 @@ I'd come to settle my debt—the talents I still owed her from before my travels
 
 "How did you—"
 
-"I'm observant. You've been asking questions in the Archives. You visited Elodin. You've been seen near the restricted sections." She smiled, sharp as a blade. "And you have a particular look in your eyes. The look of someone who's found something disturbing and wants to understand it before it's too late."
+"I'm observant. You've been asking questions. Visiting Elodin. Hovering near the restricted sections." Her smile was sharp as a blade. "And you have a look. The look of someone who's found something disturbing and needs to understand it before it's too late."
 
 I sat down across from her. The usual chair, the usual distance. Devi was dangerous, but she was also one of the most brilliant minds I'd ever encountered. If anyone could help me understand what was happening to Denna, it was her.
 
@@ -30,13 +30,15 @@ Her expression flickered. Just for a moment. Then the mask was back.
 
 "Why not?"
 
-"Because acknowledging it raises questions. Questions like: who decides what gets removed? And why? And what happens to the knowledge that disappears?" She stood, walked to her bookshelf, ran her fingers across the spines. "I know the answers to those questions. That's part of why I was expelled."
+"Because acknowledging it raises questions. Who decides what gets removed? Why?" She stood, walked to her bookshelf, ran her fingers across the spines. "What happens to knowledge that disappears?"
+
+She turned. "I know the answers. That's part of why I was expelled."
 
 "Tell me."
 
 She pulled out a bottle of something amber, poured two glasses. This was new. Devi didn't usually drink with clients.
 
-"The Archives aren't just a collection," she said, handing me a glass. "They're a *curated* collection. Someone—several someones, actually, across centuries—has been deciding what knowledge is safe for the world to have. And what knowledge is too dangerous to exist."
+"The Archives aren't just a collection," she said, handing me a glass. "They're a *curated* collection. Someone—several someones, across centuries—has been deciding what knowledge is safe." She paused. "And what knowledge is too dangerous to exist."
 
 "The Amyr."
 
@@ -46,11 +48,11 @@ She went very still.
 
 "Multiple sources. All of them telling me to stop asking questions." I drank, felt the burn. "Which only makes me want to ask more."
 
-"Of course it does. You're Kvothe." She smiled, but there was something sad in it. "I was the same way, once. Convinced that knowledge was power, and power was safety, and if I could just learn enough, I could protect myself from anything."
+"Of course it does. You're Kvothe." She smiled, but it was sad. "I was the same way, once. Convinced that knowledge was power. Power was safety. If I could just learn enough, I could protect myself from anything."
 
 "What changed?"
 
-"I learned something I shouldn't have. Something about the people who control the pruning. And they made sure I understood the consequences of knowing."
+"I learned something I shouldn't have." She set down her glass. "And they made sure I understood the consequences of knowing."
 
 She pulled down her sleeve. On her inner arm, a scar—pale and old, but unmistakable.
 
@@ -62,11 +64,11 @@ She pulled down her sleeve. On her inner arm, a scar—pale and old, but unmista
 
 "What secrets?"
 
-"The same ones you're stumbling toward. The truth about the Chandrian. The truth about the Amyr. The truth about the doors that keep the world from falling apart." She finished her drink, set the glass down hard. "And the truth about Lorren."
+"The same ones you're stumbling toward. The truth about the Chandrian. The Amyr. The doors that keep the world from falling apart." She finished her drink, set the glass down hard. "And the truth about Lorren."
 
 "Lorren?"
 
-"He's one of them. Has been for decades. Maybe longer—the Amyr have ways of extending life, if you're valuable enough." She met my eyes. "That's why the Archives are pruned. That's why certain knowledge disappears. Because the Amyr need it gone, and Lorren is their instrument."
+"He's one of them. Has been for decades. Maybe longer." She met my eyes. "The Amyr have ways of extending life. And Lorren is their instrument."
 
 I thought about my conversations with the Master Archivist. The way he watched me. The warnings he'd given.
 
@@ -92,20 +94,22 @@ I thought about my conversations with the Master Archivist. The way he watched m
 
 "Then what am I supposed to do?"
 
-"I don't know." She let go of my hand. "But I know you're going to do something. You always do. Just..." She hesitated. "Try not to destroy everything in the process. That's the Amyr's specialty. Don't become them in your rush to defeat them."
+"I don't know." She let go of my hand. "But you're going to do something. You always do." She hesitated. "Just try not to destroy everything in the process. That's the Amyr's specialty."
+
+She met my eyes. "Don't become them."
 
 ---
 
 I left Devi's rooms with more questions than answers.
 
-The Amyr. The Chandrian. The pruned Archives. All of it connected in ways I was only beginning to understand.
+The Amyr. The Chandrian. The pruned Archives. All connected in ways I was only beginning to see.
 
-And at the center of it all—Denna. Being written. Being shaped. Becoming something that might already be beyond saving.
+And at the center—Denna. Being written. Being shaped. Becoming something that might already be beyond saving.
 
-I had to find her. Had to understand what was happening to her before it was too late.
+I had to find her. Understand what was happening before it was too late.
 
-But first, I needed to know more about Yllish magic. More about the bindings that could be inscribed into flesh—an older, darker form of the art. More about the patterns that could compel behavior.
+But first, I needed to learn more about Yllish magic. The older form. The darker one. Bindings inscribed into flesh. Patterns that could compel behavior.
 
 If Denna was being written, maybe I could learn to read her.
 
-And maybe—just maybe—I could find a way to rewrite the story.
+And maybe I could find a way to rewrite the story.
