@@ -108,7 +108,7 @@ Elodin told me things I'd never heard in any classroom. Things about the Creatio
 
 "I'm one person."
 
-"One person with her name. One person who's touched the silence and come back. One person the Cthaeh chose to speak to." His grip tightened. "Do you think that's coincidence? Do you think you ended up here, now, with these specific abilities, by accident?"
+"One person with her name. One person who's touched the silence and come back. One person the Cthaeh chose to speak to." His grip tightened. "Do you think that's coincidence?"
 
 "I don't believe in destiny."
 

@@ -150,7 +150,7 @@ She was standing at a window, looking out at something I couldn't see. Moonlight
 
 "I didn't want that power over you."
 
-"No. You were afraid of what accepting that power would mean. That you love me. That you've always loved me. That nothing either of us does can change that." She stepped closer. "Speaking my name means admitting what we are to each other. And you'd rather let me stay lost than face that truth."
+"No. You were afraid of what accepting that power would mean. That you love me. That you've always loved me." She stepped closer. "Speaking my name means admitting what we are to each other. And you'd rather let me stay lost than face that truth."
 
 "That's not—"
 
