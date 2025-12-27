@@ -460,7 +460,7 @@ I sat in darkness, the weight of three thousand years pressing down on me. The T
 
 "Lanre wasn't evil."
 
-"No. He was broken. Grief-mad. Manipulated by forces that saw his pain and used it. But he wasn't evil." Bredon's voice was tired. "That's the tragedy. The greatest villain in history is a man who loved too much. Who wanted too desperately. Who refused to accept that some things cannot be saved."
+"No. He was broken. Grief-mad. Manipulated by forces that saw his pain and used it." Bredon's voice was tired. "That's the tragedy. The greatest villain in history is a man who loved too much. Who refused to accept that some things cannot be saved."
 
 I thought of Denna. Of the marks carved into her skin. Of the song she was singing that would open doors that had been sealed for millennia.
 
@@ -480,7 +480,7 @@ I thought about this. About the power of stories. About the way belief could sha
 
 "Why would that help?"
 
-"Because gods need worship. They need belief in their greatness, their power, their transcendence. But humans? Humans just need understanding." He moved toward the pavilion's exit. "If you make Lanre human again—make people see him as a man who failed rather than a god who fell—then Cinder's ascension can't use that belief. The energy goes nowhere. The transformation fails."
+"Because gods need worship. They need belief in their greatness, their power. But humans? Humans just need understanding." He moved toward the pavilion's exit. "Make Lanre human again—make people see him as a man who failed rather than a god who fell—and Cinder's ascension can't use that belief. The energy goes nowhere. The transformation fails."
 
 "That's... a lot of weight to put on a song."
 
