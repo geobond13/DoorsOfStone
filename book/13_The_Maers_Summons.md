@@ -8,9 +8,9 @@ Timeline: Day 3 story - Act II begins
 
 THE LETTER ARRIVED three days after my confrontation with Denna.
 
-It bore the Maer's seal—the silver and sapphire that marked correspondence from Alveron himself. The messenger who delivered it was road-worn and impatient, clearly under orders to wait for a reply.
+It bore the Maer's seal—silver and sapphire. The messenger was road-worn and impatient, clearly under orders to wait for a reply.
 
-I broke the seal in my room at Anker's, my hands steadier than my heart.
+I broke the seal in my room at Anker's. My hands were steadier than my heart.
 
 *To Kvothe, called the Arcane, called the Bloodless:*
 
@@ -57,9 +57,9 @@ Wil's eyebrows rose. "The Maer Alveron? The most powerful noble in Vintas?"
 
 "I'm not running away. I'm—"
 
-"You're avoiding." His voice was sharp. "Denna is here. The answers you're looking for are here. But the moment things get difficult, the moment you might actually have to face something painful, you find an excuse to leave."
+"You're avoiding." His voice was sharp. "Denna is here. The answers you're looking for are here. But the moment things get difficult, you find an excuse to leave."
 
-The words stung because they were partly true.
+The words stung because they were true.
 
 "The Maer's summons isn't an excuse," I said carefully. "It's a lead. Severen has connections to the Lackless family, to doors that have been sealed for millennia, to secrets that might explain everything."
 
@@ -119,11 +119,11 @@ I thought of my parents. Of the song my mother used to sing, the one that had go
 
 "Then how do we know what's real?" I asked. "How do we know which version to believe?"
 
-"We don't." Wil's voice was matter-of-fact. "We just do the best we can with incomplete information. Make choices based on what seems most likely to be true. And accept that we'll probably be wrong about some of it."
+"We don't." Wil's voice was matter-of-fact. "We do the best we can with incomplete information. Make choices. Accept that we'll be wrong about some of it."
 
 "That's not very comforting."
 
-"Comfort is for children." He smiled grimly. "Adults live with uncertainty. That's what makes us adults."
+"Comfort is for children." He smiled grimly. "Adults live with uncertainty."
 
 ---
 
@@ -133,7 +133,7 @@ The city was larger than I remembered—sprawling across the hills above the riv
 
 "Something's wrong," Simmon said quietly.
 
-"Yes." I could feel it too—the same wrongness I'd sensed in the Cthaeh's tree, the same pressure that preceded disaster. "Something's very wrong."
+"Yes." I could feel it too—the same pressure that preceded disaster. "Something's very wrong."
 
 We made our way to the Maer's estate. The gates opened for us—my name was on a list, apparently, along with "companions if accompanied." Alveron had anticipated that I wouldn't come alone.
 
