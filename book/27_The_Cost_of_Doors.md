@@ -164,8 +164,6 @@ I would look for alternatives until the last possible moment. I would try every 
 
 And if, in the end, there was no other way...
 
-Then I would become whatever was needed. Give up whatever was required. Sacrifice whatever I had to sacrifice.
+Then I would become whatever was needed. Give up whatever was required.
 
-Because some doors needed to stay closed.
-
-And some prices were worth paying.
+Because some doors needed to stay closed. And some prices were worth paying.

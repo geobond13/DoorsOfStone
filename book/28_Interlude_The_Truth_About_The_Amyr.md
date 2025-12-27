@@ -180,7 +180,7 @@ The figure—Cinder—smiled. It was not a pleasant expression.
 
 "And I was wrong."
 
-"You were spectacular." Something like genuine appreciation in Cinder's voice. "You gave me everything I needed. The pieces I couldn't assemble myself, the keys I couldn't reach, the final steps of a ritual that required a genuine sacrifice." He smiled. "Without you, the doors would still be closed. Without you, I would still be what I was. So thank you, Kvothe. Thank you for being exactly what I needed you to be."
+"You were spectacular." Something like genuine appreciation in Cinder's voice. "You gave me everything I needed. The pieces I couldn't assemble, the keys I couldn't reach, the final steps of a ritual that required genuine sacrifice." He smiled. "Without you, the doors would still be closed. Without you, I would still be what I was. So thank you, Kvothe."
 
 Kote was silent.
 
