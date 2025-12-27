@@ -8,7 +8,7 @@ Timeline: Day 3 story - conversations about naming, Doors of Stone
 
 ELODIN'S ROOMS WERE exactly as I remembered them—which is to say, nothing like what anyone would expect from a Master Namer.
 
-No mystical symbols on the walls. No ancient tomes scattered across mysterious surfaces. Just a comfortable mess of ordinary things: worn furniture, mismatched cups, a collection of smooth stones arranged in patterns that might have meant something or might have been purely decorative.
+No mystical symbols. No ancient tomes. Just a comfortable mess of ordinary things: worn furniture, mismatched cups, smooth stones arranged in patterns that might have meant something or might have meant nothing at all.
 
 The Master Namer himself sat cross-legged on the floor, apparently engaged in a staring contest with a potted plant.
 
@@ -26,9 +26,9 @@ I sat.
 
 "Don't be coy. The thing you learned in the Fae. The name that's been following you around like a shadow." He gestured impatiently. "Show me."
 
-I closed my eyes. Reached for the place where names lived—the sleeping mind, he'd called it once. The part of us that sees truth without the interference of thought.
+I closed my eyes. Reached for the place where names lived—the sleeping mind, he'd called it once. The part that sees truth without the interference of thinking about truth.
 
-The name came slowly. Not wind, not fire. Something deeper. Something that felt like the moment between heartbeats, the space between notes.
+The name came slowly. Not wind. Not fire. Something deeper. The moment between heartbeats. The space between notes.
 
 When I opened my mouth, nothing came out.
 
@@ -46,11 +46,11 @@ I let the name go. The silence retreated, replaced by the ordinary quiet of a ro
 
 "I named silence."
 
-"You named *Silence*." He said it differently—capitalized, significant. "The anti-name. The unmaking word. Do you know how many namers in history have been able to speak it?"
+"You named *Silence*." He said it differently. Like a door closing. "The anti-name. The unmaking word. Do you know how many namers in history have spoken it?"
 
 "How many?"
 
-"Seven." He stood, pacing now. "Seven in three thousand years. And most of them are remembered as monsters."
+"Seven." He stood, pacing now. "Seven in three thousand years." He didn't say the rest. He didn't have to.
 
 "Why?"
 
@@ -62,11 +62,11 @@ I thought of my mother. Of the way she sang. Of the silence that had followed wh
 
 "Why would I be able to name it?"
 
-"I don't know." Elodin sat back down, heavily. "But I can guess. You lost something, once. Something precious. And the silence that followed... it marked you. Shaped you. Made you into someone who could speak its name."
+"I don't know." Elodin sat back down, heavily. "But I can guess. You lost something once. The silence that followed—it marked you. Shaped you."
 
 "My parents."
 
-"Yes." His voice softened. "Loss creates namers, Kvothe. Always has. We find the names of the things that wounded us, because the wound becomes a kind of knowing."
+"Yes." His voice softened. "Loss creates namers. Always has. We find the names of the things that wounded us." He paused. "The wound becomes a kind of knowing."
 
 ---
 
@@ -90,9 +90,9 @@ When I mentioned the Cthaeh, his face went pale. We'd already discussed this, bu
 
 He was quiet for a long moment. Then he stood, walked to his bookshelf, and pulled out a slim volume bound in faded leather.
 
-"Read this," he said, pressing it into my hands. "Carefully. Between the lines. And then burn it, because if anyone finds it in your possession, you'll wish the Sithe had gotten to you first."
+"Read this," he said, pressing it into my hands. "Between the lines. Then burn it." His eyes met mine. "If anyone finds it, you'll wish the Sithe had gotten to you first."
 
-I looked at the cover. No title. No author. Just a symbol embossed in the leather—a tower, broken, with light spilling from the cracks.
+I looked at the cover. No title. No author. Just a symbol embossed in worn leather—a broken tower, light spilling from the cracks.
 
 "What is it?"
 
@@ -104,17 +104,19 @@ I looked at the cover. No title. No author. Just a symbol embossed in the leathe
 
 "Before someone makes me—"
 
-But he was gone, the door swinging shut behind him, leaving me alone with a book that had no title and a warning that made less sense the more I thought about it.
+But he was gone. The door swung shut. I was alone with a book that had no title and a warning that made less sense the more I examined it.
+
+Some warnings are like that.
 
 ---
 
 I read the book that night.
 
-It wasn't what I expected. No grand revelations, no secret histories of the Amyr or the Chandrian. Just a story—seemingly simple—about a king who loved his people too much.
+It wasn't what I expected. No revelations. No secret histories. Just a story—seemingly simple—about a king who loved too much.
 
-The king had a kingdom that was threatened by shadows. Not metaphorical shadows—real darkness, spreading from the edges of the world. His advisors told him to fight, to build walls, to prepare for war.
+The king had a kingdom threatened by shadows. Not metaphorical darkness—real darkness, spreading from the world's edge. His advisors told him to fight. To build walls. To prepare for war.
 
-Instead, he made a choice.
+Instead, he made a choice. The only choice that mattered.
 
 He took the darkness into himself. Drew it inside, wrapped it around his soul, became a vessel for the very thing that threatened his people. And in doing so, he saved them—but he also became something else. Something that couldn't live among them anymore. Something that had to stand apart, forever, holding the darkness inside so it couldn't spread.
 
@@ -122,16 +124,18 @@ The book called him Lanre.
 
 But the story didn't match the stories I'd grown up with. In this version, Lanre wasn't a monster. He was a hero who had made an impossible choice. Who had become darkness so that others could have light.
 
-And the Chandrian—the Seven who followed him—weren't villains. They were guardians. The chains that kept the door closed. The price that had to be paid, over and over, so that the world could continue to exist.
+And the Chandrian—the Seven who followed him—weren't villains. They were chains. The price that had to be paid, over and over, so the world could continue.
 
-If the book was true, then everything I believed about my parents' death was wrong.
+If the book was true, everything I believed was wrong.
 
-If the book was true, then the Chandrian weren't murderers. They were protectors.
+The Chandrian weren't murderers. They were protectors.
 
-And I was hunting the people who had been keeping me safe.
+And I had spent my whole life hunting the people who kept me safe.
 
-I burned the book at dawn, as Elodin had instructed.
+I burned the book at dawn, as instructed.
 
-But the words stayed with me. The questions multiplied. And somewhere in the back of my mind, the name of silence stirred, waiting for the moment when I would need to speak it.
+But words don't die in fire. They stay. They multiply.
 
-Waiting for the moment when speaking it would destroy everything.
+And somewhere in the back of my mind, the name of silence stirred. Waiting for the moment I would need it.
+
+Waiting for the moment it would destroy everything.
