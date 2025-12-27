@@ -8,7 +8,7 @@ Timeline: Day 3 story - Ambrose threat, Lorren watching
 
 AMBROSE FOUND ME in the Fishery.
 
-I was working on a commission for Kilvin—a heat-sink schema I'd been puzzling over since before I left—when his shadow fell across my workbench. I didn't look up. Didn't need to. The expensive cologne and the particular weight of his arrogance announced him better than any herald.
+I was working on a heat-sink schema for Kilvin when his shadow fell across my workbench. I didn't look up. The cologne announced him. The particular quality of his silence—the silence of someone who expects to be noticed—confirmed it.
 
 "So the prodigal returns." His voice dripped false pleasantry. "I'd heard rumors, of course. But I wanted to see for myself."
 
@@ -26,7 +26,9 @@ I continued adjusting the binding, keeping my hands steady. The Adem training he
 
 "How *practical* of me." He leaned closer, lowering his voice. "Things are changing, Kvothe. Powers are shifting. And when the music stops, people are going to have to choose which side they're on."
 
-I finally looked up, meeting his eyes. What I saw there surprised me. This wasn't the Ambrose I remembered—the spoiled noble brat with more money than sense. This was something else. Something harder. Something that had been shaped by forces I couldn't see.
+I finally looked up. What I saw there stopped me.
+
+This wasn't the Ambrose I remembered—the spoiled noble playing at politics. This was someone who had learned things. Been taught by someone. The arrogance was still there, but it had edges now. Purpose.
 
 "Is that a threat?"
 
@@ -122,12 +124,10 @@ The Cthaeh had told me Cinder killed my parents. Lorren was implying something e
 
 I was going to find it.
 
-Whatever it cost.
+I stood and walked to the door. My hands were steady. My mind was not.
 
-Whoever I had to destroy to get there.
+Devi. She knew things about the Archives that even Lorren didn't know. And unlike everyone else, she owed no loyalty to any secret.
 
-I stood, walked to the door, and went to find Devi.
+Just to money. And leverage. And the truth, when it suited her.
 
-She knew things about the Archives that even Lorren might not know. And unlike everyone else, she had no loyalty to the secrets being kept.
-
-It was time to start asking the questions that nobody wanted answered.
+Time to see what suited her today.
