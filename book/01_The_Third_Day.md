@@ -8,9 +8,9 @@ Timeline: Morning, Day 3 begins
 
 THE MORNING CAME slowly, as if the sun itself was reluctant to rise on this particular day.
 
-Chronicler had slept poorly—three hours on a straw mattress in the room above the bar, his dreams haunted by images of fire and silence and a man with eyes like empty wells. When he came downstairs, he found Bast already awake, sitting on the hearth with his back to the cold fireplace, watching the door with an expression Chronicler couldn't read.
+Chronicler had slept poorly—three hours on a straw mattress, his dreams full of fire and silence and a man whose eyes held nothing at all. When he came downstairs, he found Bast on the hearth, back to the cold fireplace, watching the door the way a dog watches a door its master left through.
 
-Kote was behind the bar. Of course he was. Chronicler wondered if the man had slept at all, or if he'd simply stood there through the night, keeping company with the silence.
+Kote was behind the bar. Of course. Chronicler wondered if the man slept anymore, or if he'd simply stopped bothering with the pretense.
 
 "There's bread," Kote said, not looking up. "And cheese. The cider is warm."
 
@@ -26,7 +26,7 @@ Chronicler paused mid-chew. "Howling?"
 
 "The scrael—"
 
-"Not scrael." Bast stood, stretched with the boneless grace of something not quite human. "Something else. Something that doesn't have a name anymore. Something that's been sleeping for a very long time."
+"Not scrael." Bast stood, stretched with the boneless grace of a cat that has forgotten it was ever tame. "Something older. Something that used to have a name, before people learned it was safer to forget."
 
 Chronicler looked at Kote. The innkeeper's face was expressionless, but his hands had gone still on the bar.
 
@@ -88,7 +88,7 @@ The innkeeper was quiet for a long moment.
 
 Bast made a small sound—pain or protest—but didn't speak.
 
-"The Cthaeh told me exactly enough to ensure I would act. And acting, I would cause the maximum possible destruction." Kote laughed—a hollow sound. "It's quite elegant, really. The perfect trap. It doesn't force you to do anything. It just shows you the truth, knowing that the truth will make you do exactly what it wants."
+"The Cthaeh told me exactly enough." Kote laughed—a hollow sound, like wind through empty rooms. "That's the trap, you see. It doesn't force you to do anything. It just tells you the truth. And the truth makes you do the rest."
 
 "Which was?"
 
@@ -100,13 +100,13 @@ The fire crackled. Outside, the sun climbed higher, and the howling of the night
 
 "Let me tell you about my return," Kote said. "About the boy I was, and the man I was becoming. About the people I loved, and the disaster I was walking toward without ever seeing it."
 
-He closed his eyes, and when he opened them again, something had shifted. The innkeeper receded, and in his place was someone else. Someone younger. Someone who still believed he could save the world.
+He closed his eyes. When he opened them, someone else looked out.
 
-"I came through the gates of the University on a spring morning, with the wind at my back and the sun in my eyes. I had survived Felurian. I had learned the name of the wind. I had spoken with the Cthaeh and walked away whole—or so I thought."
+"I came through the gates on a spring morning. Wind at my back. Sun in my eyes. I had survived Felurian. Learned the name of the wind. Spoken with the Cthaeh and walked away whole." He paused. "Or so I thought."
 
-His voice changed, becoming richer, more alive. The voice of a storyteller. The voice of Kvothe.
+His voice had changed. Richer. Alive. The voice of someone who still believed stories could save things.
 
-"I was seventeen years old. I was brilliant and foolish and completely certain that I understood how the world worked. And I had absolutely no idea that everything I loved was about to be destroyed."
+"I was seventeen. Brilliant and foolish and certain I understood how the world worked." A breath. "I had no idea that everything I loved was already burning."
 
 He smiled—a real smile, touched with sorrow.
 
