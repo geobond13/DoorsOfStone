@@ -8,7 +8,7 @@ Timeline: Day 3 story - Denna returns, performs her song
 
 SHE CAME BACK on a Felling night.
 
-I wasn't at the Eolian—hadn't been since my return, too wrapped up in research and revelation to remember simpler pleasures. But Simmon found me in my room, breathless from running, his face a complicated mixture of excitement and dread.
+I wasn't at the Eolian—hadn't been since my return, too wrapped up in research to remember simpler pleasures. But Simmon found me in my room, breathless from running, his face caught between excitement and dread.
 
 "She's here. Denna. She's performing tonight."
 
@@ -38,7 +38,7 @@ Then she began to sing.
 
 The song was beautiful.
 
-I say that without qualification, without the jealousy of a rival musician, without the bias of someone who loved the singer. It was objectively, devastatingly beautiful—the kind of music that makes you forget to breathe, that reaches into your chest and rearranges something fundamental.
+I say that without jealousy, without bias. It was objectively, devastatingly beautiful—the kind of music that makes you forget to breathe. That reaches into your chest and rearranges something fundamental.
 
 But it was wrong.
 
@@ -114,7 +114,7 @@ She laughed—a hollow sound. "Of course not. You're Kvothe. Everything slides o
 
 I stepped closer. "Denna, what's happening? What are you involved in?"
 
-"You know what I'm involved in." Her voice was bitter. "You've always known. The patron. The lessons. The beatings that aren't beatings." She pulled back her sleeve, and I saw them—marks on her forearm, patterns I recognized from my research. "I'm being written, Kvothe. One word at a time."
+"You know what I'm involved in." Her voice was bitter. "The patron. The lessons. The beatings that aren't beatings." She pulled back her sleeve, and I saw them—patterns I recognized from my research. "I'm being written, Kvothe. One word at a time."
 
 "Then stop. Leave. I'll help you—"
 
@@ -152,10 +152,8 @@ She pulled away. "Don't. Don't touch me. Don't try to save me." Her eyes were fi
 
 But she was gone.
 
-I stood alone in the alley, surrounded by shadows and the echo of a song that was slowly rewriting the world.
+I stood alone in the alley, surrounded by shadows and the echo of a song slowly rewriting the world.
 
-And I knew—with the terrible certainty that comes from speaking to oracles and touching the edges of truth—that this was only the beginning.
+And I knew—with the terrible certainty that comes from speaking to oracles—that this was only the beginning.
 
-Whatever Denna had become, whatever the song was meant to accomplish, it was all part of something larger. Something that had been building for centuries.
-
-Something that was about to break.
+Something had been building for centuries. Something that was about to break.
