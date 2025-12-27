@@ -12,7 +12,9 @@ I wandered the University like a ghost, my mind churning with everything Denna h
 
 Part of me wanted to chase her. To find wherever she was staying and force her to listen, to let me help, to stop whatever was happening before it was too late.
 
-But another part of me—the cold, calculating part that had been growing since the Fae—understood that forcing wouldn't work. Denna had made her choices. She was bound by magics I barely understood. And any attempt to intervene might only make things worse.
+But another part of me—the cold, calculating part that had been growing since the Fae—understood that forcing wouldn't work. Denna had made her choices. She was bound by magics I barely understood.
+
+And any attempt to intervene might only make things worse.
 
 *The Cthaeh's words,* I thought bitterly. *Every action I take plays into its design.*
 
@@ -128,11 +130,11 @@ Or the truth was somewhere in between, tangled up in bindings and compulsions an
 
 I sat down on the bench she had vacated. The stone was still warm from her body.
 
-Cinder. Master Ash. The white-haired monster with eyes like chips of frozen midnight.
+Cinder. Master Ash. The white-haired monster with eyes like frozen midnight.
 
-He was here. Close. Close enough to teach Denna, to write his patterns into her flesh, to shape her song into a weapon.
+He was here. Close. Close enough to teach Denna, to write his patterns into her flesh.
 
-And he had been doing this while I chased shadows in the Archives, while I pieced together fragments of Yllish magic, while I planned and plotted like I had any idea what I was facing.
+And he had been doing this while I chased shadows in the Archives. While I planned and plotted like I had any idea what I was facing.
 
 The Cthaeh had told me Cinder was responsible for my parents' deaths. It had given me that truth to ensure I would act. To ensure I would destroy something in my rush for revenge.
 
@@ -146,12 +148,12 @@ I was being maneuvered. Used. Every choice I made was somehow playing into a des
 
 But what was the alternative? To do nothing? To let Cinder continue his work? To watch as the song spread and changed and opened doors that should stay closed?
 
-I stood up. Walked out of the garden. Back toward the University and the decisions that were waiting for me.
+I stood up. Walked out of the garden.
 
-Whatever the Cthaeh wanted, whatever Cinder was planning, I couldn't simply step aside. I couldn't pretend I didn't know what I knew.
+Whatever the Cthaeh wanted, whatever Cinder was planning, I couldn't step aside. I couldn't pretend I didn't know.
 
-I would find a way. I would save Denna, or destroy Cinder, or both.
+I would find a way. Save Denna, or destroy Cinder, or both.
 
-Or I would die trying.
+Or die trying.
 
 It wasn't much of a plan. But it was the only one I had.
