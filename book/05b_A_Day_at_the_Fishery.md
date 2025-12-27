@@ -16,7 +16,7 @@ Master Kilvin was already at his station, his massive frame hunched over somethi
 
 "The bridge was closed for construction, Master Kilvin."
 
-"The bridge has been closed for three days. You knew this." He didn't look up from his work. "Laziness dressed as excuse is still laziness."
+"The bridge has been closed for three days." He didn't look up. "Laziness wearing an excuse is still laziness."
 
 "Yes, Master Kilvin."
 
@@ -292,9 +292,9 @@ I stood very still.
 
 The watching continued.
 
-Then, slowly, it withdrew. Like a tide receding, like a curtain falling. One moment it was there, pressing against my awareness; the next it was gone, leaving only the ordinary night and the ordinary sounds of students going about their ordinary lives.
+Then, slowly, it withdrew. Like a held breath finally released.
 
-I made it back to my room in record time.
+I made it back to my room in record time. I didn't run. But I didn't look back either.
 
 And when I closed the door behind me, when I lit my lamp and sat on my bed and tried to make sense of what I'd felt, I couldn't shake the conviction that something had changed.
 
@@ -324,9 +324,7 @@ Instead, I sat by my window and watched the sky lighten, and tried not to think 
 
 But I couldn't stop thinking about it.
 
-And somewhere deep in my gut, in the place where intuition lives and warnings whisper, I knew that Fela had been right.
+Fela had been right. This was the beginning.
 
-This was the beginning.
-
-And I had no idea what was coming next.
+I just didn't know of what.
 
