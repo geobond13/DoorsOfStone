@@ -8,9 +8,9 @@ Timeline: Day 3 story - deeper naming lessons
 
 THE WIND CAME differently now.
 
-Before the Fae, before Felurian, the name of the wind had been something I called in moments of crisis. A flash of power, unpredictable and brief. I could no more command it than command the sunrise.
+Before the Fae, before Felurian, the name of the wind had been something I grasped in crisis. A flash of power, unpredictable and brief. I could no more command it than I could command my own heartbeat.
 
-But something had changed. The months among the Adem, the time in the Fae, the encounter with the Cthaeh—all of it had shifted something fundamental in how I perceived the world. The sleeping mind wasn't sleeping anymore. It was merely... resting. Waiting. Ready to wake at a thought.
+But something had shifted. The sleeping mind wasn't sleeping anymore. It was resting. Waiting.
 
 Elodin noticed.
 
@@ -18,21 +18,21 @@ Elodin noticed.
 
 "Is that good?"
 
-"It's unusual." He tilted his head, studying me. "Most namers take years to reach this stage. Some never do. They spend their whole lives wrestling with the sleeping mind, trying to force it awake."
+"It's unusual." He tilted his head. "Most namers spend their whole lives wrestling with the sleeping mind. Trying to force it awake."
 
 "And me?"
 
-"You." He smiled, but there was something troubled beneath it. "You've had it forced awake for you. By trauma. By the Fae. By speaking with an oracle that sees all possible futures." He paused. "I'm not sure that's good. I'm not sure it's bad. It simply *is*, and we have to work with what is."
+"You." The smile faded. "Yours was forced awake for you. By trauma. By the Fae. By speaking with something that shouldn't be spoken to." He looked away. "I don't know if that's good or bad. It simply is."
 
 "What do you want me to do?"
 
 "Call the wind. Not in desperation, not in crisis. Just... call it. Calmly. Deliberately."
 
-I closed my eyes. Reached inward, to the place where names lived. The sleeping mind wasn't exactly awake, but it wasn't exactly sleeping either. It was in that strange twilight between, where thoughts became feelings and feelings became knowing.
+I closed my eyes. Reached inward. The sleeping mind was in that strange twilight between waking and sleep, where thoughts become feelings and feelings become knowing.
 
 *Aerlevsedi.*
 
-The wind answered. Not explosively—not the wild surge I was used to—but gently. A current of air that swirled around me, rustling my clothes, playing through my hair. It felt like a greeting. Like recognition.
+The wind answered. Not the wild surge I was used to—just a current of air, swirling around me, playing through my hair. A greeting. Recognition.
 
 "Good." Elodin's voice was soft. "Now let it go."
 
@@ -46,7 +46,7 @@ I called it again. Held it longer this time. The wind grew stronger, then gentle
 
 "Is that possible?"
 
-"Everything is possible. The question is whether you can do it." He turned back to face me. "Names don't exist in isolation, Kvothe. The wind that blows now is connected to every wind that's ever blown. It carries memories, if you know how to listen. Echoes of everywhere it's been."
+"Everything is possible. The question is whether you can do it." He turned back to face me. "Names don't exist in isolation. The wind that blows now is connected to every wind that's ever blown. It carries memories." He paused. "Echoes of everywhere it's been."
 
 I closed my eyes again. Reached deeper this time. Not just for the wind, but for its history. Its path. The places it had touched and the things it had known.
 
@@ -54,11 +54,11 @@ For a long moment, there was nothing. Just darkness, and silence, and the ordina
 
 Then—
 
-*Flash of green. A garden in the Fae, where flowers sang and shadows danced. The wind had passed through there, carrying the scent of impossible things.*
+*Green. A garden in the Fae where flowers sang. The wind had carried the scent of impossible things.*
 
-*Flash of grey. Mountains in the north, higher than any human had climbed. The wind had swept their peaks, cold and ancient and pure.*
+*Grey. Mountains higher than any human had climbed. The wind had swept their peaks, cold and ancient.*
 
-*Flash of red. A campfire somewhere, people laughing, music playing. The wind had carried their joy across distances that should have been impossible.*
+*Red. A campfire. Laughter. Music. Joy carried across distances that shouldn't exist.*
 
 I opened my eyes.
 
@@ -76,13 +76,13 @@ Elodin's face was unreadable. "That's correct."
 
 "What do you mean?"
 
-"The wind carries memories. So do people." His eyes were very bright. "You have memories that don't belong to you. I can feel them, the way I can feel the Fae residue on your skin. Someone gave you something. Or took something. Or both."
+"The wind carries memories. So do people." His eyes were very bright. "You have memories that don't belong to you. I can feel them. Someone gave you something. Or took something." He paused. "Or both."
 
-I thought of the Cthaeh. Of its words, designed to cut.
+I thought of the Cthaeh. Its words, designed to cut.
 
-"An oracle told me things," I said carefully. "Things about people I love. Things about people I want to kill."
+"An oracle told me things," I said carefully. "Things about people I love. People I want to kill."
 
-"And now those words are part of you. Woven into your thinking. Shaping every choice you make." Elodin shook his head. "This is the Cthaeh's gift, Kvothe. Not information—*infection*. It doesn't need to control you directly. It just needs to give you the right truths at the right moment, and let your own nature do the rest."
+"And now those words are part of you. Woven into your thinking." Elodin shook his head. "This is the Cthaeh's gift. Not information—*infection*. It doesn't need to control you. It just gives you the right truths at the right moment, and lets your own nature do the rest."
 
 "What am I supposed to do about it?"
 
@@ -94,20 +94,18 @@ He paused at the ladder.
 
 "Had to?"
 
-"Had to." He climbed down the ladder, his voice floating back up. "In my experience, the universe rarely kills people by accident. There's always a reason. The question is whether the reason is good enough to forgive."
+"Had to." His voice floated up from below. "The universe rarely kills people by accident. There's always a reason. The question is whether the reason is good enough to forgive."
 
-I stood alone on the rooftop, the wind swirling around me.
+I stood alone on the rooftop, wind swirling around me.
 
 Find the echoes. Read the traces.
 
-Somewhere, the truth of my parents' death was still resonating through the world. If I could learn to listen—really listen—maybe I could hear it.
+Somewhere, the truth of my parents' death was still resonating. If I could learn to listen—really listen—maybe I could hear it.
 
-And maybe, just maybe, I could understand.
+The wind whispered as it passed. Not words, exactly. But something close.
 
-The wind seemed to whisper as it passed. Not words, exactly. But something close.
-
-Something that sounded almost like my mother's voice, singing a song I'd almost forgotten.
+Something that sounded almost like my mother's voice.
 
 I closed my eyes and listened.
 
-And for just a moment, I thought I understood what Elodin meant about names, and memories, and the echoes that never quite fade.
+And for just a moment, I understood.
