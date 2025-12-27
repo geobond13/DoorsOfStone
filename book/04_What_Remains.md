@@ -12,7 +12,7 @@ The same scarred tables. The same smell of yeast and woodsmoke. The same collect
 
 I'd called for a gathering—not a celebration, exactly, but something close. My friends deserved to hear my story, or at least the parts of it I could tell. And I needed to see them. To remember what I was fighting for.
 
-Simmon arrived first, practically dragging Fela behind him. She looked exactly as I remembered—the kind of beauty that made poets weep and painters despair—but there was something different in her bearing now. A confidence that hadn't been there before.
+Simmon arrived first, Fela's hand in his. She looked the same—the kind of face that made you forget what you were saying mid-sentence—but she carried herself differently now. Like someone who had stopped waiting for permission.
 
 "Kvothe." She embraced me, and I caught the scent of cedar and old books. "We thought—"
 
@@ -78,11 +78,11 @@ They knew something was wrong. Not the specifics—I'd told them little, and the
 
 "You're different," Fela said finally, as the candles burned low. "Not just the Adem training. Something else."
 
-"I've seen things," I said. "Learned things. Some of it was wonderful. Some of it was—" I searched for the right word. "Necessary."
+"I've seen things," I said. "Learned things." I searched for a word that wasn't a lie. "Some of it was beautiful. Some of it was the price of beautiful."
 
 "That's not an answer."
 
-"It's the only one I have."
+"No. It isn't."
 
 She studied my face for a long moment. Then she nodded, accepting what I couldn't say.
 
@@ -134,8 +134,8 @@ Bredon, with his beautiful games and his knowing smiles?
 
 Or someone else entirely—someone I hadn't noticed yet, hiding in plain sight?
 
-The moon rose higher, and the University slept beneath me.
+The moon rose higher. The University slept.
 
-Tomorrow, I would start looking. Start pressing. Start uncovering the secrets that everyone seemed so desperate to keep hidden.
+And somewhere out there, in the dark between the stars, the watchers watched back.
 
-Whatever it cost.
+I smiled. Let them.
