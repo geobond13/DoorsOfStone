@@ -8,9 +8,9 @@ Timeline: Day 3 story - researching Yllish magic
 
 I SPENT THREE days in the restricted sections.
 
-Not the parts that were truly forbidden—even my cunning had limits. The true restricted sections, the ones Lorren kept under lock and key and his own watchful eye, were beyond my reach. I would have needed permissions I didn't have, access codes I couldn't guess, and a level of trust I had systematically destroyed through years of impulsive behavior.
+Not the truly forbidden parts—even my cunning had limits. The sections Lorren kept under lock and key and his own watchful eye were beyond my reach. I would have needed permissions I didn't have, trust I had systematically destroyed.
 
-But there were places between the public stacks and the locked vaults, grey areas where the ambitious and the careful could find things that weren't exactly hidden, just... overlooked. Forgotten corners where dust gathered on spines that hadn't been opened in decades. Shelves that weren't quite restricted, just... discouraged.
+But there were places between the public stacks and the locked vaults. Grey areas. Forgotten corners where dust gathered on spines that hadn't been opened in decades. Shelves that weren't quite restricted, just... discouraged.
 
 I spent three days in those places.
 
@@ -18,7 +18,9 @@ Three days of reading by candlelight, my eyes burning, my back aching from hunch
 
 Yllish written magic wasn't a single discipline.
 
-It was a family of techniques, developed over centuries, refined by scholars whose names had been erased from history. The Aturan church had done its best to destroy this knowledge—had burned libraries, executed practitioners, salted the earth where the old universities had stood. But knowledge is harder to kill than people, and fragments had survived.
+It was a family of techniques, developed over centuries by scholars whose names had been erased from history. The Aturan church had burned libraries, executed practitioners, salted the earth where the old universities had stood.
+
+But knowledge is harder to kill than people. Fragments survived.
 
 The basic principles were simple enough.
 
@@ -46,13 +48,11 @@ Memory, he wrote, is just another kind of story. And stories can be edited.
 
 The technique he described was horrifying.
 
-A pattern inscribed on the body—not on paper, not on cloth, but directly on flesh. The pattern would sink beneath the skin, would weave itself into the very structure of the mind. And once it was complete, the person who bore it would remember whatever the inscriber wanted them to remember.
+A pattern inscribed directly on flesh. The pattern would sink beneath the skin, weave itself into the structure of the mind. Once complete, the bearer would remember whatever the inscriber wanted.
 
-Their past would change.
+Their past would change. Their identity would shift.
 
-Their identity would shift.
-
-They would become, in every meaningful way, a different person.
+They would become, in every way that mattered, a different person.
 
 ---
 
@@ -96,13 +96,11 @@ The beatings weren't beatings at all.
 
 They were *inscriptions*.
 
-I thought of the Cthaeh's words, spoken in that terrible glade where truth was a weapon and every sentence carried barbs: *He beats her, you know. Two days ago he used his walking stick.*
+The Cthaeh's words came back to me, spoken in that terrible glade: *He beats her, you know. Two days ago he used his walking stick.*
 
 Walking stick.
 
-A tool for walking.
-
-Or a tool for writing.
+A tool for walking. Or a tool for writing.
 
 For carving.
 
@@ -124,7 +122,7 @@ I hadn't heard him enter. I had been so deep in the research, so focused on the 
 
 I looked up.
 
-Sim stood in the doorway, his face showing concern and something else—fear, perhaps, or the beginning of fear. He had never seen me like this before. Obsessed, yes. Driven, certainly. But this was different.
+Sim stood in the doorway. Concern on his face, and something else. Fear, perhaps. Or the beginning of it.
 
 "I've been researching."
 
@@ -154,13 +152,13 @@ Simmon's face went pale.
 
 "Then find allies. People who want to stop them." He reached out, gripped my shoulder. "You're not alone in this, Kvothe. But you're acting like you are. And that's going to get you killed."
 
-I wanted to argue.
+I wanted to argue. To explain that he couldn't understand, couldn't possibly understand.
 
-To explain that he didn't understand, couldn't understand, the weight of what I'd learned and the urgency of what needed to be done. Denna was being rewritten. Every day that passed, more of her was replaced by something else. And if I waited too long, if I took the time to do this carefully and properly—
+Denna was being rewritten. Every day that passed, more of her was replaced. And if I waited too long—
 
 There might not be anything left to save.
 
-But looking at Sim's face—the genuine concern, the friendship that had survived years of my arrogance and absences—I felt something loosen in my chest. A knot I hadn't known was there.
+But looking at Sim's face—the genuine concern, the friendship that had survived years of my arrogance—something loosened in my chest. A knot I hadn't known was there.
 
 "You're right," I said finally. "I've been... focused."
 
@@ -192,29 +190,15 @@ Devi, with her scars and her secrets. She had been expelled for something—some
 
 Lorren, who served the Amyr while pretending to serve only knowledge. He had access to the truly restricted sections, the places where the real secrets were kept. And if he was what I suspected him to be, he would have his own reasons to stop whoever was using Yllish magic for such dark purposes.
 
-And somewhere out there, Denna herself.
+And somewhere out there, Denna herself. The only person who truly understood what was happening to her.
 
-The only person who truly understood what was happening to her.
+If I could find her. If I could make her talk.
 
-If I could find her.
+If there was still enough of her left to remember.
 
-If I could make her talk.
+I gathered my papers. Organized my notes.
 
-If she still had enough of herself left to remember who she used to be.
-
-I gathered my papers.
-
-Organized my notes.
-
-And began planning my next move.
-
-Tomorrow, I would return to the Archives.
-
-But not to research.
+Tomorrow, I would return to the Archives. Not to research.
 
 To hunt.
-
-For the truth about what was being written on Denna's skin.
-
-And the person who was writing it.
 
