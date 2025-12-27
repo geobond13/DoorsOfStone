@@ -68,7 +68,7 @@ Chronicler waited. He'd learned, over these three days, that Kote's silences wer
 
 "That's not—"
 
-"It is." Kote's eyes met Chronicler's. "I know how I sound. Self-pitying. Melodramatic. The tragic hero wallowing in his own mistakes." He smiled, but it didn't reach his eyes. "But the thing is, Chronicler, I earned this. Every mistake, every tragedy, every bit of suffering that followed—I earned it. By being too proud to listen. Too clever to learn. Too in love with my own brilliance to see what was right in front of me."
+"It is." Kote's eyes met Chronicler's. "I know how I sound. Self-pitying. Melodramatic." He smiled, but it didn't reach his eyes. "But the thing is, Chronicler, I earned this. Every mistake, every tragedy, every bit of suffering that followed—I earned it." He paused. "Too proud to listen. Too clever to learn. Too in love with my own brilliance to see what was right in front of me."
 
 ---
 
@@ -82,7 +82,7 @@ Bast stood abruptly, walked to the window, stared out at the night.
 
 "That doesn't absolve me."
 
-"Maybe not. But it explains things. And explanation matters." Bast crossed the room, stopped on the other side of the bar. "You're telling this story like it's a confession. Like you're the villain. But you're not. You're just... the person who was there. The person who tried to do the right thing and got it wrong."
+"Maybe not. But it explains things." Bast crossed the room, stopped on the other side of the bar. "You're telling this story like it's a confession. Like you're the villain. But you're not. You're just the person who was there. The person who tried to do the right thing and got it wrong."
 
 "Does it matter? Right intention, wrong result—the result is what people remember."
 
@@ -118,7 +118,7 @@ Kote looked between them—Bast, desperate and hopeful; Chronicler, patient and 
 
 He looked up, and his eyes held the first spark of life Chronicler had seen in hours.
 
-"Let me tell you about my trip to Severen. About the secrets I uncovered, and the truths that should have stayed buried."
+"Let me tell you about Severen. About the secrets I uncovered. The truths that should have stayed buried."
 
 He set down the cloth.
 
