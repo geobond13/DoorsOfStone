@@ -246,7 +246,7 @@ I studied the board. The game was nearly lost—his stones formed an almost unbr
 
 Bredon was silent for a long moment.
 
-"Because we failed." The admission seemed to cost him something. "The Amyr have been losing for decades. Our numbers are diminished. Our resources are scattered. And the opening we've spent three thousand years preventing is happening anyway."
+"Because we failed." The admission cost him something. "The Amyr have been losing for decades. Our numbers diminished. Our resources scattered. And the opening we've spent three thousand years preventing is happening anyway."
 
 "So you're desperate."
 
@@ -360,7 +360,7 @@ He stopped.
 
 "Thank you." The words felt strange in my mouth. "For the truth. For the game. For... all of it."
 
-"Don't thank me yet." He didn't turn around. "The truth I've given you comes with a weight. A responsibility. And the decisions you make from here will shape the fate of everything."
+"Don't thank me yet." He didn't turn around. "The truth I've given you comes with a weight. A responsibility." His voice floated back. "And the decisions you make from here will shape the fate of everything."
 
 He walked on, vanishing into the gathering dusk.
 
