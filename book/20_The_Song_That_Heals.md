@@ -10,9 +10,9 @@ I WROTE FOR three days.
 
 Not performed. Not practiced. Just wrote—notes and words and fragments of melody, trying to capture something that felt too large for music.
 
-How do you sing a story that's been buried for three thousand years? How do you make people feel sympathy for a monster, humanity for a legend, truth for something they've only known as lies?
+How do you sing a story buried for three thousand years? How do you make people feel sympathy for a monster, humanity for a legend?
 
-The answer, I realized, was that you don't try to tell the whole story. You tell one moment. One truth. One image so powerful that it reshapes everything around it.
+The answer: you don't tell the whole story. You tell one moment. One truth. One image so powerful it reshapes everything around it.
 
 Lanre, standing over Lyra's body. Not the destroyer of cities. Not the maker of the Chandrian. Just a man, holding the woman he loved, knowing she was gone forever.
 
@@ -106,7 +106,7 @@ Meluan was quiet for a long moment.
 
 "I don't run from fights."
 
-"This isn't a fight you can win. If the doors open fully, if what's behind them gets free—" She shuddered. "My family's records are very clear about one thing: if the seals fail completely, nothing in this world can stop what follows. Nothing."
+"This isn't a fight you can win. If the doors open fully, if what's behind them gets free—" She shuddered. "My family's records are very clear: if the seals fail completely, nothing in this world can stop what follows."
 
 ---
 
