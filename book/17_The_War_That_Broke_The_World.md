@@ -140,9 +140,9 @@ Meluan had mentioned a visitor—Lord Brendan, who didn't exist. White hair, sil
 
 Why would a man dedicated to keeping the doors closed need to study them in secret? Why use an alias? Why ask about Lackless inheritance, unless he was planning for a future where the current heirs had... failed?
 
-The Amyr were known for doing terrible things in service of the greater good. The phrase itself—"for the greater good"—had always troubled me. Who decided what was greater? Who measured the cost?
+The Amyr were known for doing terrible things in service of the greater good. The phrase itself had always troubled me. Who decided what was greater? Who measured the cost?
 
-What if Bredon wasn't fighting to keep the doors closed? What if he was simply fighting for his own version of what should happen when they opened?
+What if Bredon wasn't fighting to keep the doors closed? What if he was fighting for his own version of what should happen when they opened?
 
 But there was another possibility, one that made my blood run cold.
 
@@ -244,12 +244,10 @@ The door wasn't just opening. It was bleeding. And everyone close to it—includ
 
 The answer was simple. Obvious. And utterly useless.
 
-To save the Maer, I needed to close the door.
+To save the Maer, I needed to close the door. To close the door, I needed knowledge hidden for three thousand years.
 
-And to close the door, I needed knowledge that had been hidden for three thousand years.
+I looked toward the horizon, toward the University waiting beyond weeks of travel.
 
-I looked toward the horizon, toward the University that waited beyond weeks of travel.
-
-There was no more time for caution. No more time for careful investigation.
+No more time for caution. No more time for careful investigation.
 
 I needed to get back. Now.
