@@ -8,9 +8,9 @@ Timeline: Day 3 story - first days back, adjusting to changes
 
 ADMISSIONS WAS BRUTAL.
 
-I'd expected that. The Arcanum has never been kind to students who disappear for extended periods, regardless of the reasons. But I hadn't expected the particular flavor of hostility that greeted me when I sat before the masters.
+I'd expected that. The Arcanum has never been kind to students who disappear. But I hadn't expected Hemme's smile.
 
-Hemme's smile was the first warning. It was the smile of a man who had been waiting for this moment—savoring it, preparing for it, sharpening his questions like knives.
+It was the smile of a man who had been sharpening something for months. Who had practiced this moment in mirrors.
 
 "Eight months," he said, flipping through papers with theatrical slowness. "Eight months absent. No word. No correspondence. And now you simply... walk back in and expect to resume your studies?"
 
@@ -152,17 +152,17 @@ When I finished, his face was ashen.
 
 "No." His voice was heavy. "That's the trap. Inaction is also action. The Cthaeh chose its words knowing that you'd either act on them or choose not to. Either way, you're playing its game."
 
-I felt cold. Not the physical cold of winter, but something deeper. The chill of understanding that I was not the master of my own fate—that I was a piece on a board I couldn't see, moved by hands I couldn't fight.
+I felt cold. Not winter-cold. Understanding-cold. The chill of knowing you are a piece on a board you cannot see.
 
 "Then what's the point?" The words came out bitter. "If I'm going to destroy everything no matter what I do, why bother trying to save anything?"
 
 Elodin was quiet for a long moment.
 
-"Because that's what being human means," he said finally. "We know we're going to die. We know our efforts will fade. We know the universe doesn't care about our hopes or our fears. And we try anyway. We love anyway. We build and dream and create, knowing it will all turn to dust."
+"Because that's what we are," he said finally. "We know we'll die. We know it won't matter. And we try anyway." He shrugged. "The Cthaeh is ancient. It sees everything. But it doesn't understand why someone would fight a battle they've already lost."
 
 He put his hand on my shoulder.
 
-"The Cthaeh is ancient. Powerful. It sees further than we can imagine. But it doesn't understand hope. It doesn't understand the irrational, impossible courage of people who choose to fight even when they can't win."
+"It doesn't understand hope. That's its blind spot. Maybe its only one."
 
 "And if I destroy everything?"
 
@@ -170,16 +170,14 @@ He put his hand on my shoulder.
 
 I left his rooms with more questions than answers.
 
-But somewhere beneath the fear, beneath the weight of the Cthaeh's words, I felt something else.
+But beneath the fear, beneath the weight of everything, something else stirred.
+
+Not hope. Not yet.
 
 Defiance.
 
-I was marked. Doomed. A walking disaster waiting to happen.
+I was marked. Doomed. A disaster walking.
 
-But I wasn't going to go quietly. I wasn't going to let the Cthaeh have the last word without a fight.
+But the Cthaeh wasn't the only one who could play a long game. And I had something it didn't.
 
-The Chandrian were out there. Cinder was out there. Denna was out there, being shaped into something I didn't understand.
-
-And I was going to find them. All of them.
-
-Whatever it cost.
+I had nothing left to lose.
