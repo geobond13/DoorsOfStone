@@ -10,19 +10,19 @@ IT WAS NIGHT AGAIN. The Waystone Inn lay in silence, and it was a silence of thr
 
 The most obvious part was a hollow, echoing quiet, made by things that were lacking. If there had been a wind it would have sighed through the trees, set the inn's sign creaking on its hooks, and brushed the silence down the road like trailing autumn leaves. If there had been a crowd, even a handful of men inside the inn, they would have filled the silence with conversation and laughter, the clatter of mugs, the comforting sounds of life happening somewhere. If there had been music... but no. Of course there was no music. There hadn't been music here for a very long time.
 
-The inn itself seemed to lean into its own emptiness. Stone walls that had stood for generations absorbed what little sound remained, drinking it in like parched earth drinks rain. The wooden beams overhead were dark with age and smoke, and they held their memories close—memories of busier times, of travelers and merchants and farmers gathering around the fire to share news and gossip and the simple human comfort of company.
+The inn itself seemed to lean into its own emptiness. Stone walls that had stood for generations absorbed what little sound remained. They were hungry, those walls. They remembered noise and wanted it back. The wooden beams overhead were dark with age and smoke, holding their memories the way old men hold grudges—tight, and close, and with no intention of letting go.
 
-Those times felt very far away now.
+Those times felt very far away now. They were.
 
 The common room stretched before the cold hearth like a stage waiting for actors who would never arrive. Tables sat in patient rows, their surfaces worn smooth by years of elbows and tankards and coins sliding across wood. Chairs stood empty, pushed back as if their occupants had just stepped away for a moment and would return any second.
 
 They wouldn't return. Not tonight. Perhaps not ever.
 
-Inside the Waystone, a pair of men huddled at a corner table. The fire had burned down to sullen coals that painted the room in shades of red and shadow. One man sat hunched over a sheaf of papers, his pen scratching across the page with the desperate concentration of someone racing against dawn. The other stood by the window, looking out at nothing, his eyes catching the last embers of firelight in a way that wasn't quite human.
+Inside the Waystone, a pair of men huddled at a corner table. The fire had burned down to sullen coals that painted the room in shades of accusation. One man sat hunched over papers, pen scratching with the desperate focus of someone racing dawn. The other stood by the window, looking at nothing, his eyes catching firelight in a way that wasn't quite human.
 
-The scribe was called Chronicler, though that wasn't his true name any more than Kote was the innkeeper's. He had spent two days listening to a story that defied everything he thought he knew about the world. His hand ached from writing, his mind reeled from processing, and still the words came—a river of confession that showed no signs of running dry.
+The scribe was called Chronicler. Two days of listening had worn grooves in him. His hand ached. His certainties had cracked. And still the words came.
 
-The figure by the window was Bast. Young in appearance, ancient in truth, with features too sharp and beautiful to belong to any ordinary man. He had served the innkeeper for years now, watching, waiting, hoping for something he couldn't quite name. Tonight, that hope had begun to curdle into something darker.
+The figure by the window was Bast. Young in the face, old in the eyes, beautiful in the way knives are beautiful. He had served the innkeeper for years—watching, waiting, hoping for something he refused to name aloud. Tonight, that hope tasted like copper in his mouth.
 
 This was the second silence—deeper than the first. The patient, cut-flower sound of a man who is waiting to finish. Chronicler's pen had been moving for two days now, and the story it captured was nearly complete. The words on the page were heavy with tragedy and triumph, with music and magic, with all the things that had made Kvothe the Arcane, Kvothe Kingkiller, Kvothe the Bloodless. Two days of telling, and the man behind the bar was nearly empty of story.
 
@@ -80,13 +80,13 @@ Or perhaps he was just as foolish as the rest of them.
 
 ---
 
-The innkeeper didn't respond. He might have been carved from stone, from silence, from the memory of a man who used to fill every room he entered.
+The innkeeper didn't respond. He might have been carved from stone, from silence, from the memory of a man who used to fill rooms just by entering them.
 
-There had been a time when Kvothe couldn't walk into a tavern without drawing every eye. When his voice could silence a crowd or start a riot. When his music could make the coldest heart weep and the hardest criminal confess. He had been fire and lightning, wit and will, a force of nature wrapped in the skin of a red-haired boy who was too clever for his own good.
+Once, that red hair had been a banner. That voice had silenced crowds. Those hands had played music that made criminals confess and cold hearts crack open like winter ice in spring.
 
-That boy was gone now.
+Once.
 
-What remained was Kote. The innkeeper. The mask that had worn so long it had become more real than the face beneath it.
+What remained was Kote. The innkeeper. The mask worn so long it had fused to the face beneath.
 
 Bast turned from the window. In the dying firelight, his features seemed to shift—too sharp, too beautiful, too *other* in a way that made Chronicler's stomach tighten. The glamour that usually softened his appearance had slipped, revealing glimpses of what lay beneath: the pointed ears, the too-bright eyes, the inhuman grace that marked him as Fae.
 
@@ -114,7 +114,7 @@ Chronicler's hand tightened on his pen. "Scrael?"
 
 "You're *Kvothe*." The name hung in the air like a thunderclap, like a prayer, like an accusation. "You're the one they're afraid of. The one who broke the world and could put it back together. You're—"
 
-"A story." The innkeeper's voice was flat. Final. "I'm the story you wanted me to tell. And tomorrow, when Chronicler leaves with his papers, that's all I'll be. Words on a page. A warning to clever children about the price of reaching too high."
+"A story." The innkeeper's voice was flat. Final. "I'm what you wanted me to tell. Tomorrow Chronicler leaves with his papers, and that's all I'll be. Words on a page. A warning to clever children." He almost smiled. "Reach too high and the fire burns you. Reach too far and you fall."
 
 "That's not—"
 
@@ -130,15 +130,13 @@ And in the Waystone Inn, the silence of three parts folded back in on itself, pa
 
 ---
 
-Bast turned away, his hands curling into fists.
+Bast turned away.
 
-He had tried everything. Every trick he knew, every manipulation, every desperate gambit. He had brought Chronicler here hoping that the telling of the story would wake something in his Reshi—would remind Kvothe of who he had been, what he had done, why he should want to live.
+His hands were fists. His throat was tight. Every trick he knew, every gambit, every careful manipulation—all of it had led here. To this. To watching a man drown in three feet of water and refuse to stand up.
 
-Instead, he was watching a man prepare to die.
+Not dramatically. Not heroically. Just... quietly. Fading into the silence like a coal going grey.
 
-Not dramatically. Not heroically. Just... quietly. Letting himself fade into the silence that surrounded him, becoming one with the emptiness that had swallowed everything else.
-
-It was unbearable.
+Bast's nails bit crescents into his palms.
 
 Chronicler dipped his pen in the inkwell, his hand trembling slightly. He had recorded the histories of kings and generals, heroes and villains. He had never witnessed anything like this.
 
@@ -160,17 +158,15 @@ He picked up his eternal cloth, began wiping the bar—the gesture so familiar i
 
 ---
 
-And the innkeeper stood behind his bar, a man called Kote, watching the candle burn down to nothing with eyes that held no light at all.
+And the innkeeper stood behind his bar, watching the candle burn down to nothing. His eyes held no light. His hands held no music. His heart held... what?
 
-The silence waited, as it had waited for a very long time.
+The silence waited.
 
-But this time—for the first time—there was something else beneath it.
+But this time—for the first time—it was not alone.
 
-Something stirring.
+Something stirred beneath it. Something that might have been hope. Or hunger. Or the first faint creak of a door that had been closed for a very long time.
 
-Something that might have been hope.
-
-Or might have been a door, beginning to open.
+The difference mattered. But not yet.
 
 The night deepened around the Waystone Inn.
 
