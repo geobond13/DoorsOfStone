@@ -50,7 +50,7 @@ Finally, we reached the Four Plate Door.
 
 It stood as it always had—massive, imposing, the copper plate at its center dark with age. But tonight, something was different. The door was humming.
 
-Not a sound you could hear with your ears. A vibration in your bones, in your blood, in the deepest parts of your mind that remembered things from before you were born.
+Not a sound you could hear with your ears. A vibration in your bones, in your blood, in the parts of your mind that remembered things from before you were born.
 
 "It's been getting louder," Lorren said quietly. "For the past two months. Whatever's behind it is waking up."
 
@@ -88,7 +88,7 @@ Not like the Four Plate Door. This was older. Stranger. The surface was smooth a
 
 "What's behind it?"
 
-"We don't know exactly. The records are incomplete—destroyed, or hidden, or simply never written." He moved toward the platform, his steps careful on the ancient stone. "But we know it's dangerous. Dangerous enough that the people who sealed it were willing to sacrifice everything to keep it closed."
+"We don't know exactly. The records are incomplete—destroyed, hidden, or never written." He moved toward the platform, steps careful on the ancient stone. "But we know it's dangerous. Dangerous enough that the people who sealed it sacrificed everything to keep it closed."
 
 "The Shapers."
 
@@ -146,7 +146,7 @@ I pulled back, gasping. The understanding faded, leaving only impressions—imag
 
 *Haliax was the strongest. He held the binding together when others faltered. But the weight of it broke him. Three thousand years of endless watching, of feeling the things behind the doors pressing against his awareness, of knowing that release would never come...*
 
-*He began to believe that opening the doors was the only mercy left. That oblivion was preferable to eternal imprisonment.*
+*He began to believe that opening the doors was the only mercy left. That oblivion was better than eternal imprisonment.*
 
 *The others disagreed. Some of them. Not all.*
 
@@ -208,7 +208,7 @@ He was silent for a long moment.
 
 "In the end, I'm on my own."
 
-"In the end, we all are." His voice was tired, ancient, weighted with the knowledge of what was coming. "Go. Prepare. And may whatever gods still care about this world watch over you."
+"In the end, we all are." His voice was tired. Ancient. "Go. Prepare. And may whatever gods still care about this world watch over you."
 
 ---
 
@@ -228,11 +228,11 @@ I had to get there first.
 
 I had to find a way.
 
-And I had to be willing to do whatever was necessary—even if it meant losing everything I'd ever loved.
+And I had to be willing to do whatever was necessary—even if it meant losing everything.
 
 The stone, as Wil had said, was heavy.
 
-But I was done carrying it alone.
+I was done carrying it alone.
 
 ---
 
