@@ -276,7 +276,5 @@ Today, he was just Kote.
 
 An innkeeper.
 
-A keeper of silence.
-
-A man waiting for something he couldn't name.
+Waiting.
 

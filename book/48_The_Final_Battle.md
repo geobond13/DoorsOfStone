@@ -162,4 +162,4 @@ Then his eyes hardened.
 
 He lunged.
 
-And I spoke the name of silence one final time.
+And I spoke silence.

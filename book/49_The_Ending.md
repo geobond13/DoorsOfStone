@@ -454,5 +454,5 @@ I stepped inside.
 
 Closed the door behind me.
 
-And began the long, slow process of learning to be no one.
+And began learning to be no one.
 
