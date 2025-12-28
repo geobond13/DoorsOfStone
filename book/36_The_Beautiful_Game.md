@@ -74,7 +74,7 @@ I didn't listen.
 
 I never listened.
 
-I reached for her—
+I reached—
 
 And Denna's hand came up, and the song shifted, and the air between us solidified into something harder than stone.
 
@@ -238,7 +238,7 @@ Because I had already stopped caring if I survived.
 
 I caught him by the throat. The silence flowed through my fingers, into him, and I felt something—his essence, his power, the thing that had kept him alive for millennia—begin to crack.
 
-"I'm nothing. I'm silence. And I'm going to end you."
+"I'm nothing. I'm silence. I'm going to end you."
 
 ---
 
@@ -406,7 +406,7 @@ The carved words on her skin writhed, twisted—and began to crack.
 
 "You don't own me," she gasped, her voice raw and ragged and entirely her own. Blood ran from her nose, her ears, from the corners of her eyes. But she was smiling. "You never owned me. You owned a mask. A performance. A lie I let you believe."
 
-The Yllish commands Cinder had carved into her flesh were fighting her counter-patterns—his writing against hers, his will against hers. And everywhere they clashed, light poured through the cracks.
+The Yllish commands Cinder had carved into her flesh were fighting her counter-patterns—his writing against hers, his will against hers. Everywhere they clashed, light poured through.
 
 "He thought he was so clever," she breathed, and there was triumph in her voice even as her body shook with the effort. "Writing on me. Making me his instrument. But I learned his language, Kvothe. I learned it, and I used it against him. Every command he gave me, I wrote a question. Every *must*, I answered with *maybe*. Every chain, I weakened link by link."
 

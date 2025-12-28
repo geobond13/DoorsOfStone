@@ -52,7 +52,7 @@ They weren't dressed as guards—they wore the same formal attire as the other n
 
 "Freedom?"
 
-"Ending." His eyes were distant. "They want to stop existing, Kvothe. Three thousand years of guardian duty has worn them down to nothing. All they want is to finally, finally rest."
+"Ending." His eyes were distant. "They want to stop existing. Three thousand years of guardian duty has worn them to nothing. All they want is to finally rest."
 
 "And you're giving them that?"
 

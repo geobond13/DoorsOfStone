@@ -154,7 +154,7 @@ The other Chandrian were fading.
 
 Without Cinder's ritual to sustain them, without the transformation to give them new purpose, they were simply... dissolving. Three thousand years of existence finally catching up with them.
 
-"Finally," Haliax whispered. His darkness was thinning, revealing something almost human beneath. "Finally, finally, finally..."
+"Finally," Haliax whispered. His darkness was thinning, revealing something almost human beneath. "Finally..."
 
 One by one, they vanished.
 
@@ -177,5 +177,3 @@ The doors were sealed.
 The world was saved.
 
 And Denna was gone.
-
-Forever.
