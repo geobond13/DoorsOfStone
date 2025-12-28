@@ -222,8 +222,6 @@ The others followed.
 
 And the silence inside me settled back into waiting.
 
-Hungry.
-
 Patient.
 
 Growing.

@@ -46,7 +46,7 @@ Devi had a different theory.
 
 "And the silence?"
 
-"Is a convenient excuse. A way to avoid confronting the real problem." Her voice was gentle but firm. "Stop hiding behind magic, Kvothe. Face the grief. Feel the pain. Let yourself break so you can heal."
+"Is a convenient excuse." Her voice was gentle but firm. "Stop hiding behind magic, Kvothe. Face the grief. Feel the pain. Let yourself break so you can heal."
 
 ---
 
@@ -162,7 +162,7 @@ I sat in the ashes of the Archives, staring at the name I'd written on a scrap o
 
 But it was something.
 
-It was a beginning.
+A beginning.
 
 I tucked the paper into my pocket and felt, for the first time since Renere, something other than the silence.
 

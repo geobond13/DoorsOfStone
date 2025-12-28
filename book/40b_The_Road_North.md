@@ -14,7 +14,7 @@ Simmon rode beside me. Fela and Devi brought up the rear. We'd lost Wilem to his
 
 I couldn't think about that yet.
 
-The horses were tired. We were tired. But we kept riding, because stopping meant thinking, and thinking meant remembering, and remembering meant facing what I'd done.
+The horses were tired. We were tired. But we kept riding, because stopping meant thinking, and thinking meant remembering.
 
 What I'd failed to do.
 
@@ -310,9 +310,7 @@ I looked at Sim, at Fela, at Devi. At the people who had followed me through hel
 
 I wasn't sure if that was true.
 
-But standing in the common room of the Waystone, with the silence settling around me like a familiar blanket, I thought maybe—just maybe—I could learn to make it true.
+But standing in the common room of the Waystone, with the silence settling around me like a familiar blanket, I thought maybe I could learn to make it true.
 
 Someday.
-
-When I finally stopped running from what I was.
 
