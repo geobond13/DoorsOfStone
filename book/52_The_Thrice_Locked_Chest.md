@@ -160,4 +160,4 @@ And somewhere in the distance—in the binding that held the world together—De
 
 The chest hummed. The silence settled.
 
-And I lay in the dark, waiting for the day when the story would finally begin again.
+And I lay in the dark, waiting.

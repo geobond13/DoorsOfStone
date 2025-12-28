@@ -254,7 +254,7 @@ And we would be silent together, connected across the vast distance between what
 
 Two pieces of the same broken thing.
 
-Still fitting, somehow.
+Still fitting.
 
-Still holding on.
+Still holding.
 

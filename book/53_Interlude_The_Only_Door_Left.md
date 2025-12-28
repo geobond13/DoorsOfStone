@@ -140,4 +140,6 @@ Something shifted in his expression. Not hope—but something adjacent to it.
 
 "Alright. But don't expect miracles."
 
-He closed his eyes. Drew a breath. And spoke his true name.
+He closed his eyes.
+
+And spoke his true name.
