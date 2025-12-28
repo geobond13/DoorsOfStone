@@ -142,7 +142,7 @@ We didn't sleep.
 
 Instead, we talked. About everything. About nothing. About the years we'd known each other and the years we'd wasted and the things we should have said when we had the chance.
 
-"I loved you from the first moment," I admitted. "On the caravan to Imre. I looked at you and I knew—this person matters. This person will change everything."
+"I loved you from the first moment," I admitted. "On the caravan to Imre. I looked at you and knew—this person matters. This person will change everything."
 
 "I knew too." Her voice was soft. "But I was afraid. Afraid of what loving you would mean. Afraid of what it would cost."
 
@@ -168,7 +168,7 @@ Instead, we talked. About everything. About nothing. About the years we'd known 
 
 "That's not true."
 
-"It's always been true. We just didn't want to see it." She walked back to me, took my hands. "But here's the thing: even the moments matter. Even the fragments are precious. Even the brief touches of beauty—they're worth everything we pay for them."
+"It's always been true. We just didn't want to see it." She took my hands. "But here's the thing: even the moments matter. Even the fragments are precious. They're worth everything we pay for them."
 
 "I don't accept that."
 

@@ -8,7 +8,7 @@ Timeline: Day 3 story - the nights before the ball
 
 RENERE WAS BEAUTIFUL in the way a knife is beautiful.
 
-Sharp, gleaming, designed to cut. The city rose from the plains like a crown of pale stone and dark towers, its streets laid out in perfect geometric patterns that had been ancient when the Empire was young. Every building was a work of art, every plaza a masterpiece of design, every fountain and garden and promenade calculated to impress upon visitors the weight of history they were walking through.
+Sharp. Gleaming. Designed to cut. The city rose from the plains like a crown of pale stone and dark towers, its streets laid out in perfect geometric patterns that had been ancient when the Empire was young. Every building was a work of art, every plaza a masterpiece of design, every fountain and garden and promenade calculated to impress upon visitors the weight of history they were walking through.
 
 And beneath all that beauty, something rotten.
 
@@ -154,7 +154,7 @@ I stared at her. "You've been deceiving him?"
 
 "Denna, that's..."
 
-"Dangerous? Foolish? Impossible?" She laughed quietly. "Probably all three. But what was the alternative? Let him erase me completely? Let him turn me into nothing but a tool for his ritual?" Her eyes flashed. "I've been owned before, Kvothe. By circumstance, by necessity, by men who thought they could buy me with pretty words and prettier promises. I learned to survive that. I learned to keep a piece of myself hidden, untouchable, mine."
+"Dangerous? Foolish? Impossible?" She laughed quietly. "Probably all three. But what was the alternative? Let him erase me completely? Let him turn me into nothing but a tool for his ritual?" Her eyes flashed. "I've been owned before, Kvothe. By circumstance. By necessity. By men who thought they could buy me with pretty words and prettier promises. I learned to survive that. I learned to keep a piece of myself hidden, untouchable, mine."
 
 "And Cinder?"
 
@@ -322,7 +322,7 @@ Some things are worth dying for.
 
 Some people are worth becoming something else to protect.
 
-Denna was both.
+She was both.
 
 And tonight, one way or another, we would find out if love was enough to hold back the dark.
 

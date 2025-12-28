@@ -18,7 +18,7 @@ I stood at the entrance, dressed in borrowed finery that fit better than it shou
 
 I looked like a lord. I felt like a liar.
 
-But that was the point.
+That was the point.
 
 ---
 
@@ -98,7 +98,7 @@ She was talking to an older woman in a gown of deep burgundy, nodding at appropr
 
 Not fear, exactly. Something worse.
 
-Recognition of an inevitable doom.
+Recognition.
 
 I began to make my way toward her, slipping between dancers and conversationalists, keeping my movements casual. I was halfway across the floor when the crowd shifted and I saw who else was standing near those great doors.
 
@@ -286,7 +286,7 @@ He turned to look at Cinder.
 
 Cinder moved through the crowd like a blade through silk.
 
-The nobles parted before him, and I saw some of them shiver as he passed—an involuntary reaction to something they couldn't quite name. The wrongness of him. The ancient cold that leaked from his presence like frost from a winter window.
+The nobles parted before him, and I saw some of them shiver as he passed. An involuntary reaction to something they couldn't name. The wrongness of him. The ancient cold that leaked from his presence like frost from a winter window.
 
 He reached the King's side and bowed. It was a mockery of a bow, the gesture of someone who had never truly bent to anyone.
 
@@ -376,7 +376,7 @@ And Denna sang, tears running down her cheeks, her voice never wavering even as 
 
 I should have acted sooner.
 
-I should have broken free of the guards and run to her. Should have disrupted the song before it could reach its climax. Should have done something—anything—to stop what was happening.
+Should have broken free of the guards. Should have disrupted the song before its climax. Should have done something—anything—to stop what was happening.
 
 But I didn't.
 
