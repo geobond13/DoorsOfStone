@@ -52,7 +52,7 @@ Not with my ears—with something deeper. The same part of me that knew the wind
 
 The city was singing.
 
-A low, mournful sound. The song of something locked away for too long. The song of a door that wanted to open.
+A low, mournful sound. The song of something locked away too long.
 
 *Release,* the song whispered. *Freedom. An end to the waiting.*
 
@@ -78,7 +78,7 @@ A man stood at the plaza's edge. Old. Thin. With eyes that held something I coul
 
 "And you're Amyr."
 
-"What remains of us." He gestured at the empty plaza. "This was our gathering place once. Before the purges. Before we learned to hide." His eyes were sad. "Now there are fewer than two dozen of us left. And half of those won't survive what's coming."
+"What remains of us." He gestured at the empty plaza. "This was our gathering place once. Before the purges." His eyes were sad. "Now there are fewer than two dozen of us left. Half won't survive what's coming."
 
 "Can you help us stop the ritual?"
 
@@ -94,7 +94,7 @@ A man stood at the plaza's edge. Old. Thin. With eyes that held something I coul
 
 "That's your plan? Hope?"
 
-"Sometimes hope is all that remains." He began walking away. "You have something we don't, Kvothe. You have connections to the old powers. Naming, singing, the silence that waits. Use them. Find a way we haven't thought of." He paused at the plaza's edge. "Because if you don't, what comes through those doors will make Cinder's transformation look merciful."
+"Sometimes hope is all that remains." He began walking away. "You have something we don't, Kvothe. Connections to the old powers. Naming, singing, the silence that waits. Use them." He paused at the plaza's edge. "Because what comes through those doors will make Cinder's transformation look merciful."
 
 ---
 

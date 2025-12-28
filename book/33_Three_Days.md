@@ -72,7 +72,7 @@ The ones that described what was behind the doors.
 
 "A god."
 
-"Worse than a god. A god can be denied. A god needs worship. What Cinder wants to become..." She shook her head. "He'll be able to remake the world on a whim. And nothing will be able to stop him."
+"Worse than a god. A god can be denied. A god needs worship. What Cinder wants to become..." She shook her head. "He'll remake the world on a whim. Nothing will stop him."
 
 ---
 
@@ -80,7 +80,7 @@ I found what I was looking for near dawn.
 
 It was a small text—barely a pamphlet—written in a hand that seemed to waver between languages. The title translated roughly as "The Alternative Sacrifice."
 
-*When all other options have failed,* it read, *when the seals cannot hold and the guardians cannot guard, there remains one final possibility. A willing soul may choose to become the new seal. To take the binding into themselves. To transform into something that holds the doors closed through sheer force of will.*
+*When all other options have failed,* it read, *when the seals cannot hold and the guardians cannot guard, one possibility remains. A willing soul may choose to become the new seal. To take the binding into themselves. To transform into something that holds the doors closed through sheer force of will.*
 
 *This sacrifice is not death. It is something both greater and lesser. The soul that chooses this path gives up everything that makes them who they are. Their memories, their loves, their hopes for the future—all of it is consumed by the binding.*
 
@@ -156,4 +156,4 @@ I looked toward the palace—toward the great hall where the sealing had been pe
 
 It wasn't a plan.
 
-But it was all we had.
+It was all we had.
