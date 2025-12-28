@@ -82,11 +82,9 @@ def compile_manuscript():
     manuscript = []
     
     # Title page
-    manuscript.append("# THE DOORS OF STONE")
+    manuscript.append("# THE SILENCE OF THREE PARTS")
     manuscript.append("")
-    manuscript.append("## The Kingkiller Chronicle: Day Three")
-    manuscript.append("")
-    manuscript.append("*A fan completion in the style of Patrick Rothfuss*")
+    manuscript.append("## An Unofficial Conclusion to the Kingkiller Chronicle")
     manuscript.append("")
     manuscript.append("---")
     manuscript.append("")

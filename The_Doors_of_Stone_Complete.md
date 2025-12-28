@@ -1,8 +1,6 @@
-# THE DOORS OF STONE
+# THE SILENCE OF THREE PARTS
 
-## The Kingkiller Chronicle: Day Three
-
-*A fan completion in the style of Patrick Rothfuss*
+## An Unofficial Conclusion to the Kingkiller Chronicle
 
 ---
 
