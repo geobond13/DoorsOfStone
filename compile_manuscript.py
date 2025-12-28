@@ -31,6 +31,7 @@ chapters = [
     "24_Sim_and_Fela.md",
     "25_Return_to_Imre.md",
     "26_The_Binding.md",
+    "26b_Dennas_Gambit.md",
     "27_The_Renegade.md",
     "28_The_Old_Roads.md",
     "29_The_Carving.md",

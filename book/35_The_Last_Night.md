@@ -1,4 +1,4 @@
-# Chapter 30: The Last Night
+# Chapter 35: The Last Night
 
 <!-- METADATA
 POV: Kvothe (past narrative)
@@ -12,7 +12,7 @@ Not in the common room—in a private space at the back, away from curious ears.
 
 Denna. Simmon. Wil. Devi. And to my surprise, Fela.
 
-"I changed my mind," she said, when I raised an eyebrow. "Not about the ritual. About running." She sat beside Simmon. "If the world is ending, I'd rather face it with friends than hide alone."
+"I changed my mind," she said, when I raised an eyebrow. "Not about the ritual. About running." She sat beside Simmon, their shoulders touching in a way that spoke of comfort and familiarity. "If the world is ending, I'd rather face it with friends than hide alone."
 
 "The world isn't ending," Devi said. "Not yet. We still have options."
 
@@ -20,7 +20,7 @@ Denna. Simmon. Wil. Devi. And to my surprise, Fela.
 
 "We stop Cinder before he can complete his transformation. Without him channeling the energy, the doors' opening will be slower. More controlled. Maybe controllable." Devi spread a map on the table—Renere and the surrounding countryside. "I've been researching. Cinder's ritual requires specific conditions. If we can disrupt even one of them—"
 
-"He's had three thousand years to plan this," Wil said. "You think he hasn't accounted for disruption?"
+"He's had three thousand years to plan this," Wil said. His voice was steady, practical—the voice of someone who had long ago learned to face hard truths without flinching. "You think he hasn't accounted for disruption?"
 
 "I think he's arrogant. I think he's so certain of his success that he hasn't considered failure." Devi looked at me. "That's what makes you valuable, Kvothe. You're unpredictable. Even the Cthaeh couldn't tell him exactly what you'd do."
 
@@ -31,6 +31,52 @@ Denna. Simmon. Wil. Devi. And to my surprise, Fela.
 "You're betting a lot on my chaos."
 
 "I'm betting on the fact that you've surprised everyone who's ever tried to predict you." Devi smiled thinly. "Why should Cinder be any different?"
+
+---
+
+The planning continued for hours.
+
+Denna drew the layout of the ritual space. Devi analyzed weaknesses. Wil calculated travel times and supply needs. Fela contributed what she knew about the old magics—things she'd studied in her work with Master Kilvin, things that touched on the boundaries between worlds.
+
+But Simmon was quiet.
+
+He sat at the edge of the table, staring at his hands, contributing nothing to the conversation. When I finally caught his eye, he looked away.
+
+"Sim?"
+
+"I'm fine."
+
+"You're not fine." I moved to sit beside him. The others continued their planning, giving us a fragile privacy. "What's wrong?"
+
+"What's wrong?" He laughed bitterly. "Everything. The world is ending, my best friend is planning to sacrifice himself to stop it, and I'm sitting here useless. What could possibly be wrong?"
+
+"You're not useless."
+
+"Aren't I?" He finally met my eyes. "I can't name things like you. I can't research like Devi. I can't read Yllish knots like Denna or build things like Fela. All I'm good at is alchemy and mediocre sympathy. What exactly am I supposed to contribute to stopping an apocalypse?"
+
+I didn't have an easy answer. So I told him the truth.
+
+"You're supposed to be my friend," I said. "You're supposed to remind me that there's something worth saving. That the world isn't just darkness and doors and three-thousand-year-old monsters." I put my hand on his shoulder. "Do you remember the first day we met? In Hemme's class?"
+
+"You called the wind and nearly got yourself expelled."
+
+"And afterward, when everyone else was staring at me like I was some kind of freak, you came over and introduced yourself. Asked me where I learned that." I smiled. "You didn't care that I was dangerous. You just thought I was interesting."
+
+"You were interesting. Still are."
+
+"My point is, you were kind when you didn't have to be. You've been kind every day since. In a world full of people trying to use me or hurt me or figure out what I could do for them, you just... liked me. For no reason. For no benefit." I squeezed his shoulder. "That matters, Sim. It matters more than naming or research or any of the rest of it."
+
+He was quiet for a long moment.
+
+"I'm scared," he admitted finally. "I've never been in a real fight. Never faced anything more dangerous than a chemistry experiment gone wrong. What if I freeze? What if I make things worse?"
+
+"Then you'll freeze. Then you'll make things worse." I shrugged. "And I'll still be glad you were there. Because at least I won't be facing it alone."
+
+"That's not very reassuring."
+
+"It's not meant to be reassuring. It's meant to be true." I stood. "Come on. Let's go tell the others what you can do with alchemy. Explosive compounds might be exactly what we need."
+
+For the first time that evening, Simmon smiled.
 
 ---
 
@@ -66,7 +112,7 @@ The room was silent.
 
 They looked at me.
 
-I thought of the book I'd read in the hidden library. Of Elodin's words about sacrifice. Of Auri's promise to bring the Lackless box's contents when I needed them.
+---
 
 "There might be a way," I said slowly. "But it would require someone to become the container. To absorb the energy instead of letting it disperse."
 
@@ -87,6 +133,48 @@ No one answered.
 Because we all knew.
 
 We were all looking at the same person.
+
+---
+
+Later, when the planning was done, we sat together in something like peace.
+
+Wil produced a bottle of something amber and potent—Cealdish whiskey, the kind that cost more than most people made in a month. He poured for everyone without asking, and no one refused.
+
+"To surviving," he said, raising his glass.
+
+"To surviving," we echoed.
+
+The whiskey burned going down, but it was a good burn. A warming burn. The kind that made the darkness outside seem a little less dark.
+
+"I want to say something," Fela said quietly. She was pressed against Simmon's side, her head on his shoulder, her eyes bright with unshed tears. "In case I don't get another chance."
+
+"Don't talk like that—"
+
+"Let me finish." She took Simmon's hand. "When I first came to the University, I was terrified. Of the magic. Of the Masters. Of being so far from home, surrounded by people who knew things I couldn't imagine." She looked around at us. "But then I met you. All of you. And slowly, over months and years, you became my family."
+
+"Fela..."
+
+"Simmon taught me that it was okay to be nervous. That bravery wasn't the absence of fear, just the willingness to act anyway." She squeezed his hand. "Wil taught me that silence could be comfortable. That some people showed love through actions instead of words. Devi taught me that women could be powerful without being cruel. That ambition and kindness weren't opposites."
+
+She turned to me. "And Kvothe... you taught me that extraordinary things were possible. That a boy with nothing could become something through talent and stubbornness and refusing to give up. You made me believe that the world could be different than it was."
+
+"I didn't do anything—"
+
+"You did everything." She smiled through her tears. "You all did. Whatever happens tomorrow, whatever happens at the ball, I want you to know: these years have been the best of my life. If I die fighting for this... I'll die grateful for every moment I had with you."
+
+Simmon was crying openly now. Even Wil's eyes were suspiciously bright.
+
+"We're not going to die," I said. My voice was rougher than I wanted it to be. "We're going to win. We're going to stop Cinder and save the world and come back here and complain about tuition and argue about music and do all the things we always did."
+
+"You don't know that."
+
+"No. I don't. But I believe it." I raised my glass. "To the future. Whatever it holds."
+
+"To the future."
+
+We drank.
+
+And for a little while, in that cramped back room of Anker's, surrounded by friends who had become family, the world felt survivable.
 
 ---
 
@@ -154,6 +242,34 @@ The group gathered in the courtyard, horses saddled, supplies packed. Devi had a
 
 "Something always goes wrong." Simmon mounted his horse. "That's why we brought extra supplies."
 
+One by one, we said our goodbyes.
+
+Fela embraced me first, her arms tight around my shoulders, her voice fierce in my ear. "Come back. Whatever happens, come back."
+
+"I'll try."
+
+"Don't try. Do." She pulled back, her eyes wet. "I'm not losing my family twice."
+
+Wil's goodbye was simpler—a clasp of hands, a look that said everything words couldn't. "Watch your back."
+
+"Watch yours."
+
+Simmon surprised me by pulling me into a rough hug. "I'm sorry for what I said earlier. About being useless."
+
+"You're not useless."
+
+"I know. You told me." He grinned through his fear. "I brought enough explosive compounds to level a palace. If that's not useful, I don't know what is."
+
+Devi didn't embrace me. She just held my gaze and said, "Don't die. I've invested too much time in you to lose my return on investment."
+
+"Touching."
+
+"I'm a businesswoman. Sentiment is for people who can afford it."
+
+But I saw her blink rapidly as she turned away.
+
+---
+
 I took one last look at the University.
 
 The four-plate door was invisible from here. But I could feel it pulsing. Could sense the pressure of what lay behind it, pressing against seals that grew weaker by the hour.
@@ -167,3 +283,10 @@ But I mounted my horse anyway.
 And we rode south toward Renere.
 
 Toward the breaking of the world.
+
+Toward the end of the story, or the beginning of a new one.
+
+I didn't know which.
+
+But I knew I wouldn't face it alone.
+

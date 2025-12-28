@@ -1,4 +1,4 @@
-# Chapter 10: The Song of Seven Sorrows
+# Chapter 11: The Song of Seven Sorrows
 
 <!-- METADATA
 POV: Kvothe (past narrative)
@@ -142,18 +142,145 @@ She pulled away. "Don't. Don't touch me. Don't try to save me." Her eyes were fi
 
 "I don't believe that."
 
-"Then you're a fool." But her voice cracked on the word. "Kvothe, please. Stay away from me. Stay away from this. Whatever happens next... I don't want you caught in it."
+"Then you're a fool." But her voice cracked on the word.
 
-"I'm already caught in it."
+---
 
-"Then get out while you can." She was at the mouth of the alley now, silhouetted against the lamplight from the street. "Some doors only close once. When they shut, you don't get to choose which side you're on."
+She stopped at the mouth of the alley. Turned back.
 
-"Denna—"
+For a moment, the Denna I remembered was there again—the woman who'd challenged me at every turn, who'd matched my wit with her own, who'd never let anyone see her true self but had, once or twice, shown me glimpses.
 
-But she was gone.
+"There's something else," she said. "Something I shouldn't tell you. But you're Kvothe, and you'll figure it out anyway, and at least this way you'll know it came from me."
 
-I stood alone in the alley, surrounded by shadows and the echo of a song slowly rewriting the world.
+I waited.
 
-And I knew—with the terrible certainty that comes from speaking to oracles—that this was only the beginning.
+"The song isn't just a weapon," she said. "It's a *test*. A way of measuring who can be affected and who can't. The people it works on—the ones who believe the new story about Lanre—they're being prepared. Made receptive. When the doors finally open, they'll see what comes through as salvation instead of destruction."
+
+"And the ones it doesn't work on?"
+
+"Are threats." Her voice was flat. "He keeps a list. Everyone who resists the song, everyone whose mind stays clear—they're marked for elimination."
+
+"You just put me on that list."
+
+"You were already on it. He's known about you for years, Kvothe. Known about your potential, your danger, your inconvenient habit of surviving things that should kill you." She laughed bitterly. "Why do you think I kept running from you? Not because I didn't want to be found. Because every moment I spent with you was a moment he could use to trace you, study you, learn how to destroy you."
+
+"You were protecting me."
+
+"I was *trying* to protect you. But you keep finding me anyway, and every time you do, you get a little closer to the center of something you can't possibly understand." She shook her head. "I'm not a damsel in distress, Kvothe. I'm bait. And the trap is almost ready to spring."
+
+---
+
+"Then help me spring it first."
+
+The words came before I could think better of them. Denna stared at me, and for a moment I saw something flicker in her eyes—hope, maybe, or the ghost of it.
+
+"What?"
+
+"You said you couldn't stop it. That no one could. But that's not true, is it?" I stepped closer. "You've been looking for a way. All those months of research, all those patterns you've been studying—you weren't just learning his magic. You were looking for weaknesses."
+
+"Kvothe—"
+
+"The knots in your hair. The ones hidden beneath the ones he put there. I saw them, Denna. Counter-patterns. Negation marks. You've been writing yourself back, one word at a time."
+
+She went very still.
+
+"How did you see that?"
+
+"I've been studying Yllish since Vintas. I'm not fluent, but I know enough to recognize intention. And your intentions..." I moved closer still. "Your intentions are a war. A silent, invisible war, fought in the spaces between his commands."
+
+"If he knew—"
+
+"He doesn't know. Because you're better at this than he thinks. Better than anyone thinks." I took her hand, and this time she didn't pull away. "You've been fighting all along. Not just surviving—fighting. And I'm asking you to let me fight with you."
+
+For a long moment, she just looked at me. Her eyes were wet, her face torn between hope and fear.
+
+"It's not enough," she said finally. "The counter-patterns I've been writing—they create space, but they don't break the binding. I can resist, but I can't escape. And when the time comes, when he channels the energy through me..."
+
+"Then we'll find another way. Together." I squeezed her hand. "Show me what you've learned. Every pattern, every technique, every weakness you've discovered. And I'll share what I know—about naming, about the Chandrian, about the things the Cthaeh showed me."
+
+"The Cthaeh—" Her voice caught. "You spoke to the Cthaeh?"
+
+"It spoke to me. Told me things I didn't want to know. Made sure I was exactly where I needed to be to cause maximum harm." I smiled grimly. "Sound familiar?"
+
+"We're both being used."
+
+"Yes. But that doesn't mean we can't choose what to do with it." I held her gaze. "The Cthaeh's manipulations, Cinder's bindings, the weight of three thousand years of planning—none of it matters if we decide to write our own ending."
+
+She was quiet for a long moment.
+
+Then she reached up and began to undo her braids.
+
+"Watch carefully," she said. "I'm only going to show you once."
+
+---
+
+The patterns were intricate.
+
+She explained them as she unraveled them, her fingers moving with the precision of a surgeon. The primary knots—Cinder's commands, woven through her hair like a spider's web. The secondary patterns—her own additions, written in counter-rhythm, creating spaces where his control weakened.
+
+"Here," she said, pointing to a particular configuration. "This is the anchor point. If I can disrupt this during the ritual—at exactly the right moment—the energy flow reverses."
+
+"Instead of going into him..."
+
+"It goes into me. All of it." Her voice was matter-of-fact. "The binding, the transformation, everything he's been building toward for three thousand years—I become the vessel instead of the channel."
+
+"That will kill you."
+
+"It will change me." She met my eyes. "I won't be human anymore. I'll become part of the seal—the new binding that holds the doors closed. But that's still better than what he's planning. Better than letting him become a god while the world burns around him."
+
+"There has to be another way—"
+
+"There isn't. I've spent months looking." She touched my face gently. "But here's the thing you need to understand, Kvothe. I'm not doing this because I have no choice. I'm doing it because I've *made* a choice. This is my decision. My sacrifice. The first real choice I've been able to make since he started writing on me."
+
+"That doesn't make it right."
+
+"No. But it makes it mine." She smiled—sad but somehow peaceful. "And that's more than I ever thought I'd have again."
+
+---
+
+We talked through the night.
+
+Strategies and weaknesses, names and bindings, everything we knew about what was coming. When dawn finally came, painting the alley in shades of gray, we were still there—sitting against the cold stone wall, her head on my shoulder, our fingers intertwined.
+
+"Promise me something," she said, as the light grew stronger.
+
+"Anything."
+
+"When it happens—when I make my choice—don't try to stop me. Don't try to save me. Just..." She paused. "Just remember who I was. Not the weapon. Not the victim. The woman who fought back, even when everyone thought she was broken."
+
+"I'll remember everything."
+
+"Good." She stood, pulling me up with her. "Then we have work to do. The ritual is in three weeks. That's how long we have to prepare."
+
+"Where do we start?"
+
+She smiled—and for the first time since I'd seen her at the Eolian, it reached her eyes.
+
+"We start with the one thing he can never take from me," she said. "The one thing he never even thought to control."
+
+"What's that?"
+
+"Love." She squeezed my hand. "He wrote commands into my skin. But he never thought to look at my heart. Never realized that everything I feel for you has been building its own counter-patterns, its own anchors, its own way out."
+
+"Love isn't magic."
+
+"Isn't it?" She laughed softly. "Maybe not the kind you learned about in the University. But it's something he doesn't understand. Something he can't control. And when the moment comes—when I have to choose between his will and mine—that's what I'll hold onto."
+
+"That, and everything else we're going to build in the next three weeks."
+
+"Yes." She picked up her lute case. "That too."
+
+---
+
+I watched her walk away, into the morning light.
+
+And I knew—with the terrible certainty that comes from loving someone—that this was only the beginning.
 
 Something had been building for centuries. Something that was about to break.
+
+And Denna wasn't just caught in the middle of it.
+
+She was fighting it. Had been fighting it all along.
+
+Now, finally, she didn't have to fight alone.
+
