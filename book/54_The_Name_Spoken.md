@@ -308,6 +308,6 @@ Kvothe almost smiled. Almost.
 
 "I suppose hope is something," he said aloud. "Even if I can't quite believe in it yet."
 
-Not whole. Not healed. But no longer hiding.
+Not whole. Not healed.
 
-It would have to be enough.
+But no longer hiding.

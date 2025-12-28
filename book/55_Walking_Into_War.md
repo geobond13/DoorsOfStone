@@ -514,5 +514,5 @@ Whether it would end in triumph or tragedy, I couldn't say.
 
 But it would end with me walking forward.
 
-That would have to be enough.
+It would have to be enough.
 
