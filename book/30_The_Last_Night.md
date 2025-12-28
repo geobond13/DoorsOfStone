@@ -112,7 +112,7 @@ Denna climbed up beside me.
 
 "The binding—"
 
-"Made it possible. But the potential was always there." She finally looked at me. "Do you know why Cinder chose me? Why, out of all the people in the world, he picked me to be his instrument?"
+"Made it possible. But the potential was always there." She looked at me. "Do you know why Cinder chose me? Out of all the people in the world?"
 
 "Because of your name. Because you're the bridge."
 
@@ -156,7 +156,7 @@ The group gathered in the courtyard, horses saddled, supplies packed. Devi had a
 
 I took one last look at the University.
 
-The four-plate door was invisible from here—hidden deep in the Archives' depths. But I could feel it pulsing. Could sense the pressure of what lay behind it, pressing against seals that grew weaker by the hour.
+The four-plate door was invisible from here. But I could feel it pulsing. Could sense the pressure of what lay behind it, pressing against seals that grew weaker by the hour.
 
 "We'll come back," Wil said quietly. "When this is over. We'll come back and everything will be normal again."
 

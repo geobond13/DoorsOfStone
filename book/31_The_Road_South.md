@@ -14,7 +14,7 @@ Not in the great hall, where courtiers might witness and wonder. Not in the rece
 
 "You're needed here, Your Grace."
 
-"I'm needed everywhere and nowhere." He smiled thinly. "The privilege of power. Urgently required, constantly absent." He reached into his cloak and withdrew something small, wrapped in blue velvet. "Stapes insisted I give you this."
+"I'm needed everywhere and nowhere." He smiled thinly. "The privilege of power." He reached into his cloak and withdrew something small, wrapped in blue velvet. "Stapes insisted I give you this."
 
 I unwrapped it carefully. Inside was a signet ring—not the Maer's official seal, but something older. The stone was dark, almost black, carved with a design I couldn't quite make out in the dim light.
 
@@ -34,7 +34,7 @@ Stapes appeared beside me, silent as always.
 
 "I'll find it."
 
-"See that you do." He looked at me with those sharp old eyes. "You're young, Kvothe. Brilliant, yes. Brave, certainly. But young in ways that matter. Don't let pride make your decisions for you."
+"See that you do." He looked at me with those sharp old eyes. "You're young, Kvothe. Brilliant, yes. Brave, certainly. But young in ways that matter. Don't let pride make your decisions."
 
 "I'll try."
 
@@ -58,7 +58,7 @@ Devi rode beside me, her hair still wild from sleep, her eyes scanning the surro
 
 "About what?"
 
-I looked at the road ahead, at the fields stretching to either side, at the distant trees marking the edge of some nobleman's estate. "About how ordinary everything looks. How peaceful. As if the world isn't about to tear itself apart."
+I looked at the road ahead, at the fields stretching to either side. "About how ordinary everything looks. How peaceful. As if the world isn't about to tear itself apart."
 
 "That's the nature of catastrophe." She adjusted her pack. "It doesn't announce itself. No trumpets, no heralds. Just a moment that seems like any other, until suddenly it's not."
 
@@ -106,7 +106,7 @@ The birds had stopped singing. The insects had gone quiet. Even the wind had die
 
 "How do you know?"
 
-"I can feel it." She touched her chest. "The song—the one he wrote in me—it's resonating with the openings. Every time the boundary thins, the music gets louder." She looked at me with eyes that held more fear than I'd ever seen in her. "It's getting harder to think around it, Kvothe. Harder to remember who I am."
+"I can feel it." She touched her chest. "The song he wrote in me—it resonates with the openings. Every time the boundary thins, the music gets louder." She looked at me with eyes that held more fear than I'd ever seen. "It's getting harder to think around it. Harder to remember who I am."
 
 I reached for her hand. Held it.
 
@@ -182,7 +182,7 @@ I looked anyway—I couldn't help myself. Just a quick glance, peripheral vision
 
 The shape was wrong.
 
-Not wrong like a cripple, not wrong like a deformity. Wrong in a way that made my mind skip, unable to process what my eyes were reporting. It had limbs, but too many of them, bending in directions that violated geometry. It had a face, but the features were distributed across surfaces that shouldn't have been able to hold features. It moved through space without quite touching it, as if it existed in a different relationship with reality than the rest of us.
+Not wrong like a cripple, not wrong like a deformity. Wrong in a way that made my mind skip. It had limbs, but too many of them, bending in directions that violated geometry. It had a face, but the features were distributed across surfaces that shouldn't have been able to hold features. It moved through space without quite touching it, as if it existed in a different relationship with reality than the rest of us.
 
 My head began to ache.
 
@@ -236,7 +236,7 @@ He gestured for us to sit, and we did, because refusing hospitality would have b
 
 "Tehlu have mercy," Simmon muttered.
 
-"Tehlu wasn't listening. Or if he was, he didn't care." The innkeeper drained his ale. "The rest started leaving. Families who'd been here for generations. Just packed up one day and headed north. Said they'd find somewhere the dreams couldn't reach." He laughed bitterly. "As if there's anywhere like that anymore."
+"Tehlu wasn't listening. Or if he was, he didn't care." The innkeeper drained his ale. "The rest started leaving. Families who'd been here for generations. Just packed up one day and headed north." He laughed bitterly. "As if there's anywhere the dreams can't reach."
 
 "Why did you stay?"
 
