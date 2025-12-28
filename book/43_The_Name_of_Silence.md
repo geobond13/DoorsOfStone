@@ -157,5 +157,3 @@ I didn't know how to answer.
 The choice hung in the air between us.
 
 The silence waited.
-
-And I didn't know what I was going to do.

@@ -224,4 +224,4 @@ She led us into the forest.
 
 And I followed, because she was right.
 
-I didn't have much left to lose.
+I didn't have much left.

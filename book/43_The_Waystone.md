@@ -214,7 +214,7 @@ He didn't laugh.
 
 "Is that what you want to be? Something that's over?"
 
-"I don't know what I want to be." I looked at the inn around me. At the prison I'd chosen. At the tomb I was building for myself. "But for now—for as long as I need—I'll be Kote. The innkeeper. The man who used to be someone else."
+"I don't know what I want to be." I looked at the inn around me. At the prison I'd chosen. "But for now, I'll be Kote. The innkeeper. The man who used to be someone else."
 
 Simmon left that afternoon.
 
@@ -242,6 +242,6 @@ Where the silence gathers.
 
 Where the waiting continues.
 
-And where, somewhere beneath all the masks and the hiding and the slow surrender to nothingness, a spark of Kvothe still burns.
+And where, somewhere beneath all the masks, a spark of Kvothe still burns.
 
-Waiting for the story to begin again.
+Waiting.
