@@ -230,5 +230,5 @@ He couldn't tell.
 
 But somehow, in that uncertainty, he found the peace he needed to sleep.
 
-And in the morning, the story would continue.
+In the morning, the story would continue.
 

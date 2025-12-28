@@ -340,7 +340,7 @@ The mountain screamed with us both.
 
 And somewhere in the chaos, somewhere in the breaking, I felt Denna reach through the connection and guide my hand.
 
-*Together,* she whispered. *We end this together.*
+*Together,* she whispered.
 
 The light consumed everything.
 

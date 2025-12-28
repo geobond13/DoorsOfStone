@@ -154,7 +154,7 @@ Then I looked at Wil.
 
 I thought of Auri, marked and running. Of Kilvin, dead in an explosion that shouldn't have happened. Of Denna, trapped between worlds, suffering because of me.
 
-"What I should have done from the beginning," I said. "Face him. End this. Whatever it costs."
+"Face him," I said. "End this. Whatever it costs."
 
 I gathered what I needed.
 

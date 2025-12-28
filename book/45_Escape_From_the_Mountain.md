@@ -184,6 +184,4 @@ Peace.
 
 The kind of peace that comes from accepting what can't be changed.
 
-The kind that lets you move forward even when moving forward hurts.
-
 I closed my eyes, and for the first time in months, I slept.
