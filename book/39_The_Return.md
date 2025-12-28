@@ -62,7 +62,7 @@ I hadn't spoken it since that night. Hadn't let myself think it, not directly. I
 
 But Wil deserved an answer. They all did.
 
-"She saved everyone." The words came slowly, each one heavy with the weight of everything I couldn't say. "She became the seal. She's..." I searched for the right word, the one that captured what had happened without minimizing it, without pretending it was something it wasn't. "Gone."
+"She saved everyone." The words came slowly. "She became the seal. She's..." I searched for the right word. "Gone."
 
 "Not gone." Wil's voice was gentle, more gentle than I'd ever heard it. "Part of everything. Everywhere at once." He met my eyes. "That's what Auri said. That the moon-named woman had become the binding."
 
@@ -268,5 +268,5 @@ Just a man.
 
 Carrying silence.
 
-Waiting for the day when there would be nothing left to lose.
+Waiting.
 

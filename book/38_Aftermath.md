@@ -84,7 +84,7 @@ Haliax—Lanre—was exactly as I remembered from that night by the Mauthen farm
 
 "Then why are you here?" Devi's voice was steady, but I could see her hands shaking.
 
-"To observe. To understand." His attention shifted to me—and even without visible eyes, I felt the weight of his gaze. "To see what the Cthaeh's latest puppet has become."
+"To observe. To understand." His attention shifted to me. "To see what the Cthaeh's latest puppet has become."
 
 "I'm not a puppet."
 
@@ -232,7 +232,9 @@ And when I spoke the Name of Silence, when I reached for the power that would st
 
 That's what makes me a monster.
 
-Not the killing. The forgetting.
+Not the killing.
+
+The forgetting.
 
 ---
 

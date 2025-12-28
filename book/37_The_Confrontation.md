@@ -88,7 +88,7 @@ Roderic Calanthis had recovered from his confusion. He stood now at the edge of 
 
 "Then protect it now. Leave this hall. Let me do what needs to be done."
 
-"What needs to be done?" He laughed—a sound with no humor in it. "You mean murder this woman? Silence her with your sorcery?" He shook his head. "I've watched. I've listened. You claim to love her, yet you're prepared to kill her?"
+"What needs to be done?" He laughed—a sound with no humor in it. "You mean murder this woman? Silence her with sorcery?" He shook his head. "I've watched. I've listened. You claim to love her, yet you're prepared to kill her?"
 
 "She's asking me to."
 
